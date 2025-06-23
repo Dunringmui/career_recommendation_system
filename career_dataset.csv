@@ -1,0 +1,1046 @@
+Stream,Activity,Interest1,Interest2,Skill1,Skill2,Subject1,Subject2,Numerical,Logical,English,Personality,PreferredEnv,StudyStyle,Career
+Science,Code,Reading,Programming,Leadership,Empathy,Mathematics,Biology,79.97,6,8,42,Solo,Visual,Software Developer
+Science,Code,Designing,Programming,Python,Creativity,Mathematics,Mathematics,72.66,6,10,38,Solo,Reading,Software Developer
+Science,Code,Designing,Public Speaking,Teamwork,Leadership,Physics,Biology,70.31,8,6,32,Structured,Hands-On,Software Developer
+Science,Code,Helping,Drawing,Empathy,Observation,Chemistry,Chemistry,77.42,3,3,32,Structured,Visual,Software Developer
+Science,Code,Writing,Writing,Leadership,Python,History,Political Science,64.87,7,5,27,Solo,Listening,Software Developer
+Science,Code,Reading,Helping,Observation,Empathy,Chemistry,Physics,89.66,6,7,27,Team,Hands-On,Software Developer
+Science,Code,Reading,Public Speaking,Creativity,Problem Solving,Computer Science,History,69.56,7,4,36,Outdoor,Reading,Software Developer
+Science,Code,Writing,Writing,Empathy,Leadership,Chemistry,Psychology,68.99,6,5,44,Team,Reading,Software Developer
+Science,Code,Drawing,Exploring,Problem Solving,Leadership,Political Science,Mathematics,74.87,4,8,28,Outdoor,Visual,Software Developer
+Science,Code,Public Speaking,Programming,Observation,Problem Solving,Computer Science,Chemistry,77.09,3,4,35,Team,Hands-On,Software Developer
+Science,Code,Public Speaking,Exploring,Problem Solving,Teamwork,Biology,Computer Science,82.38,7,6,33,Team,Reading,Software Developer
+Science,Code,Helping,Designing,Problem Solving,Observation,Mathematics,Biology,60.21,5,6,40,Structured,Visual,Software Developer
+Science,Code,Programming,Reading,Communication,Communication,Business Studies,Psychology,78.44,3,7,33,Solo,Listening,Software Developer
+Science,Code,Designing,Exploring,Leadership,Python,Chemistry,Political Science,68.23,8,9,39,Outdoor,Hands-On,Software Developer
+Science,Code,Reading,Helping,Problem Solving,Communication,History,Physics,66.61,6,7,39,Outdoor,Reading,Software Developer
+Science,Code,Reading,Helping,Empathy,Communication,Economics,Biology,70.21,6,4,29,Solo,Hands-On,Software Developer
+Science,Code,Exploring,Programming,Creativity,Observation,Computer Science,Mathematics,83.13,9,6,40,Solo,Reading,Software Developer
+Science,Code,Reading,Reading,Teamwork,Creativity,Political Science,Biology,78.62,5,7,42,Team,Listening,Software Developer
+Science,Code,Drawing,Helping,Problem Solving,Empathy,Political Science,Mathematics,74.64,10,1,39,Outdoor,Listening,Software Developer
+Science,Code,Writing,Exploring,Teamwork,Creativity,Mathematics,Mathematics,75.87,6,7,25,Solo,Hands-On,Software Developer
+Science,Code,Programming,Public Speaking,Empathy,Python,Chemistry,Physics,72.8,7,9,32,Team,Visual,Software Developer
+Science,Code,Programming,Writing,Creativity,Empathy,Computer Science,History,66.92,5,8,36,Team,Reading,Software Developer
+Science,Code,Exploring,Public Speaking,Teamwork,Problem Solving,Mathematics,Chemistry,69.7,8,7,39,Solo,Listening,Software Developer
+Science,Code,Writing,Designing,Problem Solving,Teamwork,Physics,Chemistry,67.98,6,6,27,Solo,Listening,Software Developer
+Science,Code,Writing,Reading,Empathy,Empathy,Mathematics,Political Science,77.96,7,7,33,Structured,Reading,Software Developer
+Science,Code,Designing,Drawing,Leadership,Teamwork,Mathematics,Chemistry,60.85,6,6,30,Structured,Visual,Software Developer
+Science,Code,Programming,Programming,Creativity,Empathy,Biology,Business Studies,73.39,7,10,35,Structured,Listening,Software Developer
+Science,Code,Public Speaking,Designing,Python,Communication,Business Studies,Physics,77.58,6,3,34,Structured,Hands-On,Software Developer
+Science,Code,Exploring,Helping,Problem Solving,Teamwork,Biology,Mathematics,75.6,10,6,36,Outdoor,Reading,Software Developer
+Science,Code,Programming,Programming,Observation,Python,Physics,Psychology,74.65,4,9,38,Structured,Reading,Software Developer
+Science,Code,Programming,Reading,Communication,Creativity,Psychology,Chemistry,82.91,5,9,27,Team,Listening,Software Developer
+Science,Code,Reading,Public Speaking,Python,Creativity,Business Studies,Psychology,80.87,10,5,32,Outdoor,Hands-On,Software Developer
+Science,Code,Public Speaking,Writing,Empathy,Leadership,Business Studies,Biology,76.0,5,3,35,Outdoor,Listening,Software Developer
+Science,Code,Writing,Reading,Python,Teamwork,Psychology,Psychology,64.38,7,5,42,Solo,Visual,Software Developer
+Science,Code,Public Speaking,Helping,Communication,Observation,Chemistry,Mathematics,67.17,6,8,28,Outdoor,Hands-On,Software Developer
+Science,Code,Drawing,Exploring,Leadership,Python,Political Science,Computer Science,77.27,9,3,35,Solo,Reading,Software Developer
+Science,Code,Helping,Reading,Creativity,Communication,Computer Science,Computer Science,77.6,8,4,28,Team,Hands-On,Software Developer
+Science,Code,Public Speaking,Helping,Teamwork,Leadership,Physics,Chemistry,80.22,7,7,36,Structured,Hands-On,Software Developer
+Science,Code,Programming,Programming,Observation,Communication,Computer Science,Biology,68.2,7,7,31,Structured,Listening,Software Developer
+Science,Code,Programming,Reading,Creativity,Communication,Political Science,Physics,93.66,7,4,38,Outdoor,Reading,Software Developer
+Science,Code,Designing,Drawing,Python,Leadership,Economics,Physics,65.25,8,9,30,Outdoor,Reading,Software Developer
+Science,Code,Public Speaking,Reading,Observation,Problem Solving,Psychology,Biology,84.63,7,8,44,Team,Reading,Software Developer
+Science,Code,Drawing,Designing,Python,Communication,Economics,Business Studies,72.55,5,5,30,Team,Hands-On,Software Developer
+Science,Code,Drawing,Reading,Problem Solving,Python,History,Mathematics,74.23,7,7,39,Team,Listening,Software Developer
+Science,Code,Writing,Helping,Empathy,Empathy,Physics,Mathematics,75.13,9,6,48,Structured,Hands-On,Software Developer
+Science,Code,Helping,Reading,Leadership,Observation,Political Science,Business Studies,81.26,5,4,37,Outdoor,Visual,Software Developer
+Science,Code,Reading,Helping,Communication,Leadership,Physics,Chemistry,72.77,8,7,34,Structured,Hands-On,Software Developer
+Science,Code,Writing,Designing,Creativity,Problem Solving,Psychology,Mathematics,66.53,3,6,39,Outdoor,Visual,Software Developer
+Science,Code,Designing,Programming,Empathy,Observation,Business Studies,Chemistry,77.14,4,7,36,Outdoor,Hands-On,Software Developer
+Science,Code,Reading,Helping,Leadership,Problem Solving,Economics,Business Studies,66.16,7,7,29,Outdoor,Reading,Software Developer
+Science,Code,Public Speaking,Designing,Problem Solving,Communication,Psychology,Psychology,78.58,8,9,40,Outdoor,Listening,Software Developer
+Science,Code,Programming,Helping,Leadership,Empathy,Business Studies,Psychology,61.22,5,8,37,Outdoor,Listening,Software Developer
+Science,Code,Exploring,Exploring,Empathy,Teamwork,Biology,Chemistry,80.15,10,8,40,Outdoor,Hands-On,Software Developer
+Science,Code,Reading,Public Speaking,Leadership,Empathy,Mathematics,Biology,84.54,8,6,38,Solo,Visual,Software Developer
+Science,Code,Public Speaking,Exploring,Creativity,Teamwork,Business Studies,Psychology,67.27,6,6,35,Team,Listening,Software Developer
+Science,Research,Exploring,Designing,Empathy,Communication,Physics,Chemistry,98.15,3,8,26,Structured,Reading,Research Scientist
+Science,Research,Drawing,Exploring,Python,Empathy,Chemistry,History,70.28,9,7,29,Team,Listening,Research Scientist
+Science,Research,Writing,Exploring,Problem Solving,Teamwork,Biology,History,67.85,8,5,36,Structured,Hands-On,Research Scientist
+Science,Research,Public Speaking,Helping,Teamwork,Empathy,Computer Science,History,75.46,5,10,38,Solo,Hands-On,Research Scientist
+Science,Research,Public Speaking,Helping,Observation,Observation,Political Science,Chemistry,54.75,7,5,39,Team,Reading,Research Scientist
+Science,Research,Public Speaking,Designing,Communication,Empathy,Chemistry,Business Studies,67.07,6,8,39,Structured,Hands-On,Research Scientist
+Science,Research,Exploring,Designing,Python,Empathy,Business Studies,Business Studies,63.0,6,6,31,Solo,Listening,Research Scientist
+Science,Research,Exploring,Programming,Observation,Leadership,Business Studies,Business Studies,92.65,7,4,39,Team,Listening,Research Scientist
+Science,Research,Public Speaking,Helping,Problem Solving,Teamwork,Physics,Business Studies,96.22,9,3,32,Outdoor,Listening,Research Scientist
+Science,Research,Drawing,Exploring,Communication,Python,Business Studies,Psychology,87.67,5,7,38,Solo,Visual,Research Scientist
+Science,Research,Designing,Drawing,Teamwork,Communication,Physics,Computer Science,65.73,6,1,29,Structured,Hands-On,Research Scientist
+Science,Research,Public Speaking,Exploring,Observation,Observation,Business Studies,Computer Science,72.47,4,10,27,Structured,Hands-On,Research Scientist
+Science,Research,Reading,Exploring,Python,Python,Economics,Mathematics,70.6,7,9,27,Solo,Visual,Research Scientist
+Science,Research,Programming,Public Speaking,Empathy,Python,Psychology,Biology,86.63,7,5,37,Team,Reading,Research Scientist
+Science,Research,Exploring,Reading,Empathy,Teamwork,Computer Science,Economics,76.99,5,7,33,Team,Visual,Research Scientist
+Science,Research,Drawing,Helping,Creativity,Python,Computer Science,Psychology,76.14,8,10,28,Structured,Listening,Research Scientist
+Science,Research,Public Speaking,Reading,Empathy,Creativity,Computer Science,Psychology,96.33,3,6,37,Solo,Visual,Research Scientist
+Science,Research,Writing,Designing,Observation,Creativity,Political Science,Economics,77.81,5,6,32,Solo,Listening,Research Scientist
+Science,Research,Exploring,Reading,Problem Solving,Observation,History,Biology,69.11,8,7,31,Structured,Reading,Research Scientist
+Science,Research,Helping,Exploring,Teamwork,Problem Solving,Psychology,Computer Science,84.0,7,8,38,Outdoor,Reading,Research Scientist
+Science,Research,Reading,Helping,Teamwork,Empathy,History,Psychology,66.71,5,8,38,Structured,Hands-On,Research Scientist
+Science,Research,Programming,Exploring,Observation,Communication,History,Mathematics,74.79,7,9,32,Outdoor,Hands-On,Research Scientist
+Science,Research,Writing,Helping,Leadership,Python,Political Science,Mathematics,80.47,6,6,40,Solo,Reading,Research Scientist
+Science,Research,Designing,Exploring,Empathy,Teamwork,History,History,83.25,8,9,35,Solo,Visual,Research Scientist
+Science,Research,Helping,Public Speaking,Problem Solving,Empathy,Computer Science,Psychology,81.82,6,7,34,Outdoor,Listening,Research Scientist
+Science,Research,Writing,Designing,Observation,Observation,History,Computer Science,75.97,8,5,45,Outdoor,Hands-On,Research Scientist
+Science,Research,Public Speaking,Reading,Empathy,Observation,Chemistry,Political Science,64.94,4,9,38,Team,Reading,Research Scientist
+Science,Research,Public Speaking,Exploring,Leadership,Leadership,Chemistry,Mathematics,81.24,8,6,30,Outdoor,Reading,Research Scientist
+Science,Research,Writing,Drawing,Leadership,Python,Political Science,Biology,75.76,5,8,34,Outdoor,Visual,Research Scientist
+Science,Research,Programming,Helping,Communication,Teamwork,Chemistry,Physics,66.75,6,7,32,Outdoor,Listening,Research Scientist
+Science,Research,Exploring,Exploring,Observation,Communication,Physics,Computer Science,66.78,7,7,32,Structured,Visual,Research Scientist
+Science,Research,Reading,Designing,Teamwork,Creativity,Psychology,Physics,70.29,7,4,27,Team,Reading,Research Scientist
+Science,Research,Helping,Reading,Empathy,Creativity,Political Science,Business Studies,67.82,6,7,42,Team,Listening,Research Scientist
+Science,Research,Exploring,Exploring,Leadership,Problem Solving,Computer Science,Psychology,83.58,6,6,29,Solo,Visual,Research Scientist
+Science,Research,Public Speaking,Public Speaking,Leadership,Creativity,Biology,Mathematics,74.81,6,7,30,Team,Visual,Research Scientist
+Science,Research,Drawing,Programming,Problem Solving,Teamwork,Psychology,History,80.19,10,6,37,Outdoor,Visual,Research Scientist
+Science,Research,Public Speaking,Helping,Leadership,Teamwork,Chemistry,Mathematics,81.9,6,7,35,Outdoor,Reading,Research Scientist
+Science,Research,Designing,Reading,Empathy,Communication,Computer Science,Biology,75.98,5,7,37,Solo,Visual,Research Scientist
+Science,Research,Drawing,Helping,Leadership,Teamwork,Chemistry,History,89.51,8,10,31,Outdoor,Listening,Research Scientist
+Science,Research,Helping,Exploring,Teamwork,Creativity,Psychology,Physics,83.72,7,10,30,Structured,Hands-On,Research Scientist
+Science,Research,Helping,Programming,Creativity,Empathy,Psychology,Psychology,66.6,5,2,32,Solo,Hands-On,Research Scientist
+Science,Research,Programming,Drawing,Teamwork,Teamwork,Computer Science,Biology,67.41,7,7,44,Structured,Listening,Research Scientist
+Science,Research,Reading,Exploring,Observation,Problem Solving,Economics,Economics,84.5,5,5,37,Solo,Reading,Research Scientist
+Science,Research,Writing,Designing,Teamwork,Leadership,Business Studies,Political Science,61.8,10,9,32,Solo,Listening,Research Scientist
+Science,Research,Reading,Writing,Leadership,Observation,Chemistry,Business Studies,57.87,9,6,41,Solo,Listening,Research Scientist
+Science,Research,Designing,Programming,Empathy,Observation,Psychology,History,59.06,5,7,35,Structured,Visual,Research Scientist
+Science,Research,Public Speaking,Helping,Communication,Leadership,History,History,70.5,8,4,34,Solo,Visual,Research Scientist
+Science,Research,Public Speaking,Drawing,Leadership,Python,Political Science,Business Studies,76.2,8,8,29,Solo,Reading,Research Scientist
+Science,Research,Reading,Exploring,Creativity,Communication,History,Computer Science,59.66,9,7,31,Outdoor,Listening,Research Scientist
+Science,Research,Exploring,Exploring,Empathy,Teamwork,Political Science,Biology,90.51,7,9,35,Structured,Reading,Research Scientist
+Science,Research,Drawing,Reading,Leadership,Problem Solving,Economics,Political Science,95.61,10,6,39,Outdoor,Visual,Research Scientist
+Science,Research,Helping,Helping,Teamwork,Communication,History,Political Science,81.45,9,5,38,Structured,Hands-On,Research Scientist
+Science,Research,Writing,Designing,Teamwork,Observation,Mathematics,Mathematics,85.58,3,4,24,Structured,Reading,Research Scientist
+Science,Research,Designing,Programming,Observation,Teamwork,Business Studies,Business Studies,72.31,8,10,35,Team,Listening,Research Scientist
+Science,Research,Programming,Drawing,Observation,Creativity,History,Chemistry,91.29,4,3,34,Structured,Visual,Research Scientist
+Science,Care,Drawing,Designing,Communication,Creativity,History,Computer Science,78.84,6,2,34,Outdoor,Listening,Doctor
+Science,Care,Reading,Writing,Problem Solving,Observation,History,Political Science,61.96,8,7,30,Solo,Visual,Doctor
+Science,Care,Public Speaking,Helping,Empathy,Creativity,Business Studies,Chemistry,69.86,4,6,39,Solo,Listening,Doctor
+Science,Care,Drawing,Helping,Python,Python,Economics,Physics,65.14,8,5,31,Outdoor,Hands-On,Doctor
+Science,Care,Writing,Designing,Communication,Empathy,Political Science,Business Studies,73.93,4,5,29,Team,Reading,Doctor
+Science,Care,Drawing,Reading,Problem Solving,Empathy,History,Psychology,94.65,7,5,36,Team,Reading,Doctor
+Science,Care,Exploring,Helping,Teamwork,Leadership,Physics,History,73.88,6,8,38,Outdoor,Reading,Doctor
+Science,Care,Reading,Exploring,Observation,Leadership,Business Studies,Computer Science,69.69,5,6,23,Structured,Hands-On,Doctor
+Science,Care,Public Speaking,Designing,Teamwork,Creativity,Mathematics,Business Studies,59.85,9,10,33,Outdoor,Hands-On,Doctor
+Science,Care,Helping,Programming,Problem Solving,Leadership,Physics,Psychology,80.77,7,10,40,Solo,Listening,Doctor
+Science,Care,Helping,Public Speaking,Observation,Empathy,Mathematics,Psychology,73.72,5,3,36,Outdoor,Reading,Doctor
+Science,Care,Reading,Programming,Leadership,Teamwork,Physics,Psychology,67.44,4,5,29,Outdoor,Reading,Doctor
+Science,Care,Reading,Helping,Observation,Problem Solving,Biology,Mathematics,91.87,8,6,42,Team,Hands-On,Doctor
+Science,Care,Helping,Drawing,Leadership,Teamwork,Computer Science,Economics,75.77,5,10,37,Solo,Listening,Doctor
+Science,Care,Reading,Drawing,Empathy,Problem Solving,Political Science,Economics,64.63,6,5,28,Solo,Listening,Doctor
+Science,Care,Programming,Helping,Creativity,Teamwork,Economics,Computer Science,84.26,10,4,37,Structured,Hands-On,Doctor
+Science,Care,Reading,Public Speaking,Teamwork,Python,Psychology,Political Science,68.49,6,5,30,Outdoor,Reading,Doctor
+Science,Care,Reading,Exploring,Leadership,Problem Solving,Chemistry,Biology,75.49,5,7,34,Solo,Visual,Doctor
+Science,Care,Helping,Exploring,Creativity,Creativity,Mathematics,Political Science,72.61,5,5,38,Team,Listening,Doctor
+Science,Care,Exploring,Writing,Problem Solving,Communication,Business Studies,Chemistry,80.01,5,7,38,Structured,Listening,Doctor
+Science,Care,Helping,Programming,Observation,Empathy,History,History,58.31,8,5,37,Team,Hands-On,Doctor
+Science,Care,Reading,Writing,Observation,Python,Business Studies,Computer Science,67.37,3,3,35,Team,Visual,Doctor
+Science,Care,Exploring,Reading,Empathy,Python,Physics,Economics,77.6,5,8,26,Team,Reading,Doctor
+Science,Care,Public Speaking,Reading,Empathy,Empathy,Mathematics,Economics,74.34,4,5,35,Team,Visual,Doctor
+Science,Care,Helping,Drawing,Communication,Leadership,Biology,Chemistry,66.4,6,9,32,Solo,Reading,Doctor
+Science,Care,Programming,Writing,Empathy,Observation,Physics,Biology,83.36,4,8,42,Outdoor,Visual,Doctor
+Science,Care,Drawing,Designing,Creativity,Creativity,History,History,50.28,5,8,33,Outdoor,Visual,Doctor
+Science,Care,Exploring,Public Speaking,Python,Leadership,History,Physics,78.71,5,7,34,Solo,Listening,Doctor
+Science,Care,Designing,Designing,Creativity,Teamwork,History,Chemistry,86.68,7,7,32,Solo,Hands-On,Doctor
+Science,Care,Drawing,Reading,Communication,Leadership,Psychology,Psychology,70.12,6,7,32,Outdoor,Listening,Doctor
+Science,Care,Helping,Exploring,Problem Solving,Creativity,Chemistry,Political Science,77.9,10,8,33,Team,Listening,Doctor
+Science,Care,Exploring,Public Speaking,Problem Solving,Observation,History,Business Studies,87.01,6,2,29,Structured,Visual,Doctor
+Science,Care,Writing,Designing,Observation,Leadership,Economics,Biology,56.29,6,7,43,Structured,Visual,Doctor
+Science,Care,Reading,Reading,Creativity,Problem Solving,Chemistry,Economics,78.27,6,8,23,Team,Visual,Doctor
+Science,Care,Writing,Reading,Problem Solving,Observation,Business Studies,Physics,77.36,8,4,40,Outdoor,Hands-On,Doctor
+Science,Care,Writing,Reading,Empathy,Communication,History,Mathematics,78.38,6,8,46,Solo,Hands-On,Doctor
+Science,Care,Writing,Reading,Leadership,Empathy,Business Studies,Political Science,76.82,7,6,30,Solo,Hands-On,Doctor
+Science,Care,Programming,Drawing,Leadership,Leadership,Economics,Economics,83.3,5,7,32,Solo,Reading,Doctor
+Science,Care,Drawing,Designing,Creativity,Communication,Physics,Chemistry,79.79,7,9,32,Team,Listening,Doctor
+Science,Care,Designing,Exploring,Observation,Communication,Economics,Computer Science,72.3,5,6,36,Outdoor,Visual,Doctor
+Science,Care,Programming,Drawing,Communication,Python,Chemistry,Computer Science,82.57,5,8,41,Structured,Listening,Doctor
+Science,Care,Exploring,Exploring,Problem Solving,Leadership,Mathematics,Political Science,79.13,10,5,28,Solo,Hands-On,Doctor
+Science,Care,Designing,Reading,Leadership,Teamwork,Political Science,Computer Science,57.21,9,8,34,Solo,Reading,Doctor
+Science,Care,Designing,Programming,Python,Empathy,Computer Science,Mathematics,77.8,4,10,35,Team,Hands-On,Doctor
+Science,Care,Helping,Writing,Creativity,Python,History,Business Studies,76.09,8,7,36,Team,Reading,Doctor
+Science,Care,Designing,Public Speaking,Observation,Creativity,Business Studies,Physics,67.1,7,10,41,Structured,Visual,Doctor
+Science,Care,Exploring,Reading,Observation,Problem Solving,Psychology,Business Studies,90.93,5,5,34,Structured,Hands-On,Doctor
+Science,Care,Reading,Designing,Python,Observation,Biology,Psychology,75.56,9,3,42,Structured,Hands-On,Doctor
+Science,Care,Reading,Designing,Creativity,Empathy,Business Studies,Psychology,73.42,6,4,26,Structured,Visual,Doctor
+Science,Care,Designing,Helping,Observation,Empathy,Economics,Biology,83.23,7,4,28,Solo,Visual,Doctor
+Science,Care,Public Speaking,Writing,Observation,Communication,Mathematics,Chemistry,71.64,10,6,27,Team,Hands-On,Doctor
+Science,Care,Public Speaking,Drawing,Communication,Creativity,Biology,History,72.54,6,1,34,Structured,Listening,Doctor
+Science,Care,Writing,Writing,Communication,Teamwork,Chemistry,History,72.69,8,10,40,Structured,Hands-On,Doctor
+Science,Care,Helping,Programming,Observation,Creativity,Computer Science,History,72.31,4,10,35,Structured,Visual,Doctor
+Science,Care,Programming,Writing,Leadership,Creativity,Chemistry,Psychology,75.14,6,7,34,Structured,Listening,Doctor
+Science,Design,Programming,Exploring,Empathy,Observation,Psychology,History,69.26,5,6,32,Team,Visual,Electrical Engineer
+Science,Design,Exploring,Reading,Observation,Creativity,Political Science,Biology,67.87,7,6,42,Solo,Reading,Electrical Engineer
+Science,Design,Exploring,Exploring,Communication,Observation,Economics,Computer Science,48.49,9,9,24,Structured,Listening,Electrical Engineer
+Science,Design,Writing,Programming,Observation,Creativity,Economics,Chemistry,71.57,6,4,31,Structured,Hands-On,Electrical Engineer
+Science,Design,Helping,Drawing,Observation,Creativity,Psychology,Biology,63.89,10,8,41,Outdoor,Hands-On,Electrical Engineer
+Science,Design,Designing,Drawing,Creativity,Leadership,Political Science,Business Studies,82.22,4,5,37,Outdoor,Reading,Electrical Engineer
+Science,Design,Reading,Designing,Observation,Python,Economics,Computer Science,62.78,8,6,33,Team,Reading,Electrical Engineer
+Science,Design,Writing,Exploring,Empathy,Empathy,Biology,Biology,82.11,7,6,40,Solo,Hands-On,Electrical Engineer
+Science,Design,Reading,Programming,Observation,Communication,Psychology,Business Studies,64.19,8,8,33,Team,Reading,Electrical Engineer
+Science,Design,Drawing,Drawing,Teamwork,Python,Business Studies,Economics,78.26,4,8,34,Team,Listening,Electrical Engineer
+Science,Design,Helping,Exploring,Empathy,Empathy,Computer Science,History,69.77,9,5,27,Team,Hands-On,Electrical Engineer
+Science,Design,Exploring,Exploring,Leadership,Problem Solving,Political Science,Political Science,59.43,8,4,43,Structured,Reading,Electrical Engineer
+Science,Design,Public Speaking,Drawing,Leadership,Python,History,Economics,54.18,10,7,34,Solo,Visual,Electrical Engineer
+Science,Design,Helping,Reading,Communication,Leadership,History,Political Science,69.55,7,6,40,Team,Listening,Electrical Engineer
+Science,Design,Reading,Public Speaking,Teamwork,Observation,Physics,Business Studies,76.14,7,6,34,Solo,Listening,Electrical Engineer
+Science,Design,Writing,Public Speaking,Problem Solving,Creativity,Economics,Mathematics,78.08,3,4,38,Solo,Hands-On,Electrical Engineer
+Science,Design,Reading,Writing,Communication,Communication,Physics,Computer Science,76.71,6,7,36,Structured,Reading,Electrical Engineer
+Science,Design,Exploring,Exploring,Python,Creativity,Physics,Computer Science,69.6,5,7,30,Team,Reading,Electrical Engineer
+Science,Design,Designing,Reading,Leadership,Empathy,Computer Science,Chemistry,79.08,3,9,37,Solo,Reading,Electrical Engineer
+Science,Design,Designing,Exploring,Creativity,Creativity,History,Psychology,77.56,8,10,40,Solo,Reading,Electrical Engineer
+Science,Design,Drawing,Helping,Problem Solving,Python,Psychology,Economics,56.59,4,5,35,Team,Listening,Electrical Engineer
+Science,Design,Drawing,Reading,Observation,Creativity,Political Science,Political Science,80.18,5,7,31,Solo,Listening,Electrical Engineer
+Science,Design,Exploring,Programming,Problem Solving,Observation,Computer Science,Physics,68.88,4,5,28,Outdoor,Visual,Electrical Engineer
+Science,Design,Writing,Public Speaking,Creativity,Observation,Biology,Physics,65.24,9,5,48,Outdoor,Hands-On,Electrical Engineer
+Science,Design,Drawing,Exploring,Teamwork,Communication,Biology,Chemistry,79.93,7,5,38,Structured,Visual,Electrical Engineer
+Science,Design,Helping,Public Speaking,Python,Empathy,Physics,Economics,69.24,7,10,34,Outdoor,Listening,Electrical Engineer
+Science,Design,Exploring,Helping,Python,Empathy,Computer Science,Economics,86.49,5,6,43,Solo,Hands-On,Electrical Engineer
+Science,Design,Helping,Reading,Observation,Problem Solving,Business Studies,History,68.73,10,8,32,Structured,Hands-On,Electrical Engineer
+Science,Design,Drawing,Exploring,Teamwork,Observation,Political Science,Computer Science,81.32,8,8,27,Solo,Listening,Electrical Engineer
+Science,Design,Reading,Designing,Communication,Leadership,Economics,Chemistry,67.73,6,6,38,Solo,Hands-On,Electrical Engineer
+Science,Design,Helping,Helping,Teamwork,Problem Solving,Biology,History,76.78,4,7,38,Outdoor,Listening,Electrical Engineer
+Science,Design,Programming,Writing,Problem Solving,Leadership,Physics,Chemistry,80.6,9,8,37,Structured,Hands-On,Electrical Engineer
+Science,Design,Drawing,Programming,Communication,Teamwork,Physics,Biology,74.3,3,7,36,Solo,Reading,Electrical Engineer
+Science,Design,Writing,Writing,Problem Solving,Python,Psychology,Biology,77.72,4,4,40,Structured,Hands-On,Electrical Engineer
+Science,Design,Writing,Exploring,Creativity,Communication,Political Science,Economics,74.6,8,7,35,Structured,Hands-On,Electrical Engineer
+Science,Design,Helping,Public Speaking,Creativity,Python,Biology,History,84.38,5,7,32,Structured,Visual,Electrical Engineer
+Science,Design,Helping,Helping,Teamwork,Empathy,Psychology,Computer Science,70.66,6,7,32,Structured,Reading,Electrical Engineer
+Science,Design,Reading,Drawing,Creativity,Teamwork,Biology,History,87.56,5,6,32,Solo,Hands-On,Electrical Engineer
+Science,Design,Writing,Reading,Leadership,Leadership,Biology,Biology,89.47,7,9,27,Outdoor,Reading,Electrical Engineer
+Science,Design,Reading,Public Speaking,Communication,Empathy,History,Physics,77.67,8,7,40,Outdoor,Hands-On,Electrical Engineer
+Science,Design,Exploring,Drawing,Creativity,Creativity,Computer Science,Business Studies,69.83,9,10,33,Structured,Listening,Electrical Engineer
+Science,Design,Designing,Reading,Communication,Observation,Chemistry,History,70.54,9,10,32,Structured,Hands-On,Electrical Engineer
+Science,Design,Drawing,Drawing,Communication,Problem Solving,Political Science,Physics,70.8,6,4,30,Solo,Reading,Electrical Engineer
+Science,Design,Helping,Drawing,Communication,Observation,Mathematics,Economics,64.96,5,6,36,Outdoor,Visual,Electrical Engineer
+Science,Design,Helping,Public Speaking,Leadership,Communication,Computer Science,Psychology,90.51,5,8,33,Solo,Reading,Electrical Engineer
+Science,Design,Drawing,Drawing,Observation,Python,Physics,Chemistry,74.51,8,4,36,Solo,Hands-On,Electrical Engineer
+Science,Design,Public Speaking,Designing,Python,Teamwork,Political Science,Computer Science,76.66,7,7,47,Outdoor,Listening,Electrical Engineer
+Science,Design,Public Speaking,Designing,Leadership,Teamwork,Chemistry,Physics,68.62,5,5,32,Team,Listening,Electrical Engineer
+Science,Design,Designing,Exploring,Teamwork,Empathy,Economics,Psychology,68.63,9,9,32,Team,Hands-On,Electrical Engineer
+Science,Design,Writing,Writing,Problem Solving,Communication,Economics,Political Science,66.68,7,5,38,Solo,Hands-On,Electrical Engineer
+Science,Design,Public Speaking,Exploring,Creativity,Leadership,History,Mathematics,77.03,3,10,43,Team,Visual,Electrical Engineer
+Science,Design,Programming,Helping,Problem Solving,Problem Solving,Mathematics,Biology,68.87,6,7,36,Outdoor,Hands-On,Electrical Engineer
+Science,Design,Public Speaking,Drawing,Teamwork,Teamwork,History,Computer Science,81.59,10,6,31,Structured,Visual,Electrical Engineer
+Science,Design,Reading,Designing,Teamwork,Empathy,Mathematics,Psychology,61.21,5,6,43,Outdoor,Visual,Electrical Engineer
+Science,Design,Programming,Helping,Teamwork,Teamwork,Computer Science,Political Science,69.82,7,6,40,Solo,Visual,Electrical Engineer
+Science,Organize,Designing,Drawing,Leadership,Observation,Business Studies,Economics,100.0,5,6,40,Solo,Listening,Pharmacist
+Science,Organize,Programming,Public Speaking,Observation,Leadership,Chemistry,Business Studies,81.82,10,8,33,Structured,Hands-On,Pharmacist
+Science,Organize,Reading,Drawing,Creativity,Problem Solving,Economics,Economics,80.91,9,8,37,Outdoor,Reading,Pharmacist
+Science,Organize,Public Speaking,Designing,Python,Python,Physics,Biology,85.67,9,9,38,Outdoor,Listening,Pharmacist
+Science,Organize,Exploring,Drawing,Communication,Observation,Psychology,Economics,73.33,7,9,30,Team,Listening,Pharmacist
+Science,Organize,Helping,Writing,Teamwork,Leadership,History,Physics,78.69,6,7,41,Outdoor,Hands-On,Pharmacist
+Science,Organize,Reading,Designing,Leadership,Python,Psychology,History,76.91,7,4,38,Outdoor,Reading,Pharmacist
+Science,Organize,Programming,Exploring,Communication,Problem Solving,Biology,Mathematics,81.45,10,6,36,Solo,Visual,Pharmacist
+Science,Organize,Public Speaking,Programming,Teamwork,Observation,Business Studies,Biology,77.49,10,6,36,Structured,Reading,Pharmacist
+Science,Organize,Designing,Exploring,Python,Communication,Political Science,Mathematics,81.08,7,6,35,Outdoor,Listening,Pharmacist
+Science,Organize,Designing,Writing,Communication,Teamwork,Political Science,Economics,85.74,4,7,31,Outdoor,Hands-On,Pharmacist
+Science,Organize,Exploring,Public Speaking,Empathy,Leadership,Political Science,Computer Science,86.95,3,5,36,Team,Hands-On,Pharmacist
+Science,Organize,Helping,Public Speaking,Teamwork,Observation,History,Economics,90.66,6,5,44,Outdoor,Hands-On,Pharmacist
+Science,Organize,Reading,Designing,Problem Solving,Observation,Biology,Computer Science,60.52,2,7,32,Solo,Hands-On,Pharmacist
+Science,Organize,Reading,Writing,Teamwork,Leadership,History,Mathematics,64.79,8,7,32,Team,Hands-On,Pharmacist
+Science,Organize,Helping,Drawing,Creativity,Empathy,Mathematics,Physics,62.2,8,8,34,Team,Reading,Pharmacist
+Science,Organize,Programming,Reading,Problem Solving,Observation,History,Chemistry,93.47,4,3,31,Team,Visual,Pharmacist
+Science,Organize,Drawing,Designing,Teamwork,Teamwork,Mathematics,Computer Science,74.54,7,6,36,Outdoor,Hands-On,Pharmacist
+Science,Organize,Programming,Reading,Empathy,Python,Biology,Business Studies,62.48,9,6,40,Team,Visual,Pharmacist
+Science,Organize,Designing,Exploring,Communication,Leadership,Physics,Physics,78.43,7,8,37,Outdoor,Visual,Pharmacist
+Science,Organize,Writing,Helping,Teamwork,Teamwork,Biology,Political Science,81.43,9,7,38,Structured,Hands-On,Pharmacist
+Science,Organize,Public Speaking,Reading,Observation,Communication,History,Computer Science,74.1,9,5,44,Team,Visual,Pharmacist
+Science,Organize,Writing,Helping,Empathy,Communication,Psychology,Business Studies,74.6,4,7,31,Structured,Hands-On,Pharmacist
+Science,Organize,Reading,Designing,Creativity,Communication,Biology,History,83.41,5,6,25,Outdoor,Reading,Pharmacist
+Science,Organize,Programming,Helping,Problem Solving,Empathy,History,Computer Science,70.48,2,3,38,Outdoor,Hands-On,Pharmacist
+Science,Organize,Programming,Helping,Observation,Empathy,Physics,Chemistry,82.86,7,5,34,Structured,Hands-On,Pharmacist
+Science,Organize,Drawing,Designing,Leadership,Creativity,Computer Science,Economics,74.96,4,10,39,Team,Reading,Pharmacist
+Science,Organize,Drawing,Exploring,Communication,Teamwork,Psychology,Economics,72.79,7,7,24,Structured,Listening,Pharmacist
+Science,Organize,Public Speaking,Public Speaking,Creativity,Teamwork,Political Science,Economics,72.53,5,4,33,Solo,Visual,Pharmacist
+Science,Organize,Programming,Public Speaking,Communication,Communication,Economics,Political Science,92.98,8,5,37,Structured,Visual,Pharmacist
+Science,Organize,Public Speaking,Exploring,Creativity,Teamwork,Physics,History,88.99,8,7,31,Team,Listening,Pharmacist
+Science,Organize,Exploring,Programming,Teamwork,Leadership,Physics,Business Studies,81.98,7,8,38,Outdoor,Visual,Pharmacist
+Science,Organize,Public Speaking,Reading,Python,Problem Solving,Economics,Chemistry,85.5,5,9,35,Solo,Visual,Pharmacist
+Science,Organize,Exploring,Programming,Leadership,Problem Solving,Biology,Biology,95.75,5,10,35,Structured,Hands-On,Pharmacist
+Science,Organize,Designing,Exploring,Problem Solving,Problem Solving,Chemistry,Political Science,68.49,6,6,37,Team,Hands-On,Pharmacist
+Science,Organize,Reading,Drawing,Problem Solving,Communication,Mathematics,Physics,80.23,5,6,45,Solo,Hands-On,Pharmacist
+Science,Organize,Exploring,Designing,Problem Solving,Empathy,Mathematics,History,92.28,7,7,35,Outdoor,Reading,Pharmacist
+Science,Organize,Helping,Public Speaking,Creativity,Python,Business Studies,Psychology,81.14,4,6,26,Solo,Reading,Pharmacist
+Science,Organize,Public Speaking,Reading,Creativity,Python,History,Psychology,78.99,8,6,42,Solo,Reading,Pharmacist
+Science,Organize,Programming,Designing,Teamwork,Empathy,Political Science,Mathematics,62.74,4,7,40,Solo,Reading,Pharmacist
+Science,Organize,Helping,Public Speaking,Observation,Observation,Mathematics,Computer Science,91.84,6,9,34,Team,Reading,Pharmacist
+Science,Organize,Designing,Helping,Leadership,Python,Political Science,Psychology,73.27,8,8,27,Team,Listening,Pharmacist
+Science,Organize,Exploring,Programming,Observation,Problem Solving,Political Science,Economics,89.77,9,5,36,Structured,Listening,Pharmacist
+Science,Organize,Drawing,Helping,Problem Solving,Communication,Political Science,History,79.94,7,5,31,Team,Reading,Pharmacist
+Science,Organize,Helping,Drawing,Teamwork,Python,Political Science,Business Studies,74.74,9,8,33,Structured,Reading,Pharmacist
+Science,Organize,Designing,Public Speaking,Leadership,Empathy,Economics,Chemistry,82.72,1,9,26,Structured,Hands-On,Pharmacist
+Science,Organize,Reading,Public Speaking,Python,Leadership,Business Studies,Psychology,71.38,4,4,40,Solo,Visual,Pharmacist
+Science,Organize,Public Speaking,Public Speaking,Teamwork,Empathy,Economics,Computer Science,70.32,7,6,37,Solo,Reading,Pharmacist
+Science,Organize,Public Speaking,Reading,Teamwork,Empathy,Psychology,Mathematics,75.77,4,8,32,Structured,Reading,Pharmacist
+Science,Organize,Writing,Helping,Problem Solving,Teamwork,Political Science,Economics,59.43,6,10,39,Outdoor,Hands-On,Pharmacist
+Science,Organize,Writing,Exploring,Teamwork,Creativity,History,Economics,71.51,6,6,45,Team,Hands-On,Pharmacist
+Science,Organize,Writing,Designing,Python,Empathy,Biology,Physics,78.82,7,9,36,Outdoor,Listening,Pharmacist
+Science,Organize,Helping,Drawing,Empathy,Observation,Mathematics,Business Studies,72.41,6,6,34,Team,Listening,Pharmacist
+Science,Organize,Writing,Helping,Teamwork,Teamwork,History,Biology,82.28,7,8,34,Outdoor,Reading,Pharmacist
+Science,Organize,Drawing,Exploring,Communication,Python,Political Science,Physics,75.79,3,8,36,Solo,Visual,Pharmacist
+Science,Media,Programming,Designing,Communication,Empathy,Chemistry,Biology,84.98,1,10,34,Solo,Reading,Science Journalist
+Science,Media,Exploring,Writing,Python,Teamwork,History,Physics,86.08,4,8,29,Solo,Listening,Science Journalist
+Science,Media,Programming,Programming,Leadership,Leadership,Physics,Political Science,68.76,10,6,36,Structured,Reading,Science Journalist
+Science,Media,Reading,Reading,Communication,Empathy,Mathematics,Psychology,83.7,7,7,36,Outdoor,Hands-On,Science Journalist
+Science,Media,Helping,Designing,Creativity,Observation,Business Studies,History,99.03,6,7,40,Team,Reading,Science Journalist
+Science,Media,Helping,Reading,Python,Creativity,Business Studies,Business Studies,86.06,9,8,29,Structured,Listening,Science Journalist
+Science,Media,Programming,Programming,Communication,Creativity,History,Business Studies,91.33,4,7,31,Outdoor,Visual,Science Journalist
+Science,Media,Programming,Public Speaking,Empathy,Teamwork,Computer Science,Physics,74.36,7,7,37,Solo,Hands-On,Science Journalist
+Science,Media,Programming,Drawing,Observation,Python,Mathematics,Psychology,91.14,7,6,39,Team,Listening,Science Journalist
+Science,Media,Reading,Helping,Communication,Empathy,Psychology,Business Studies,86.89,4,8,38,Outdoor,Listening,Science Journalist
+Science,Media,Drawing,Reading,Observation,Python,Chemistry,Business Studies,72.02,9,6,35,Team,Visual,Science Journalist
+Science,Media,Writing,Designing,Observation,Python,Computer Science,History,73.27,7,4,27,Structured,Reading,Science Journalist
+Science,Media,Writing,Designing,Problem Solving,Communication,Psychology,Business Studies,90.95,5,5,24,Solo,Hands-On,Science Journalist
+Science,Media,Public Speaking,Reading,Creativity,Leadership,Biology,Business Studies,68.61,4,10,40,Team,Listening,Science Journalist
+Science,Media,Writing,Writing,Creativity,Creativity,Physics,Computer Science,68.12,10,8,33,Structured,Hands-On,Science Journalist
+Science,Media,Helping,Reading,Communication,Creativity,Biology,Business Studies,50.01,10,4,26,Structured,Listening,Science Journalist
+Science,Media,Reading,Programming,Creativity,Observation,Political Science,Chemistry,85.23,10,9,37,Outdoor,Listening,Science Journalist
+Science,Media,Programming,Helping,Problem Solving,Problem Solving,Chemistry,Political Science,80.95,8,8,36,Team,Reading,Science Journalist
+Science,Media,Designing,Drawing,Communication,Leadership,Computer Science,Computer Science,76.04,6,5,33,Structured,Reading,Science Journalist
+Science,Media,Reading,Drawing,Problem Solving,Leadership,Business Studies,Computer Science,58.07,6,5,29,Structured,Visual,Science Journalist
+Science,Media,Writing,Helping,Empathy,Teamwork,Psychology,Psychology,76.8,9,8,27,Team,Listening,Science Journalist
+Science,Media,Reading,Drawing,Leadership,Python,Business Studies,Economics,65.1,8,5,33,Structured,Hands-On,Science Journalist
+Science,Media,Exploring,Writing,Problem Solving,Communication,Computer Science,Economics,80.5,5,7,28,Team,Listening,Science Journalist
+Science,Media,Writing,Drawing,Problem Solving,Observation,Computer Science,History,68.99,7,3,37,Team,Hands-On,Science Journalist
+Science,Media,Designing,Helping,Problem Solving,Observation,Chemistry,Psychology,74.8,8,7,41,Team,Reading,Science Journalist
+Science,Media,Programming,Exploring,Empathy,Teamwork,Computer Science,Chemistry,76.25,6,7,37,Structured,Listening,Science Journalist
+Science,Media,Drawing,Helping,Empathy,Leadership,Biology,Business Studies,75.49,7,5,31,Structured,Visual,Science Journalist
+Science,Media,Exploring,Exploring,Problem Solving,Problem Solving,Political Science,Physics,60.97,10,4,31,Outdoor,Visual,Science Journalist
+Science,Media,Reading,Public Speaking,Observation,Communication,Psychology,Physics,67.82,8,6,41,Structured,Hands-On,Science Journalist
+Science,Media,Designing,Reading,Python,Creativity,Computer Science,Mathematics,68.27,7,5,45,Team,Listening,Science Journalist
+Science,Media,Writing,Designing,Teamwork,Communication,Economics,Physics,63.12,7,8,37,Structured,Visual,Science Journalist
+Science,Media,Helping,Designing,Creativity,Creativity,Biology,Economics,73.15,6,7,34,Outdoor,Hands-On,Science Journalist
+Science,Media,Exploring,Public Speaking,Teamwork,Observation,History,Chemistry,84.64,10,5,28,Structured,Listening,Science Journalist
+Science,Media,Writing,Reading,Leadership,Python,Chemistry,Physics,74.12,10,5,43,Outdoor,Visual,Science Journalist
+Science,Media,Drawing,Public Speaking,Communication,Communication,Economics,Political Science,91.78,5,8,43,Structured,Listening,Science Journalist
+Science,Media,Public Speaking,Designing,Communication,Communication,Business Studies,Business Studies,71.21,6,5,29,Solo,Reading,Science Journalist
+Science,Media,Exploring,Designing,Problem Solving,Python,Mathematics,Mathematics,68.51,4,7,31,Outdoor,Visual,Science Journalist
+Science,Media,Reading,Drawing,Observation,Observation,Mathematics,History,77.34,3,7,39,Solo,Hands-On,Science Journalist
+Science,Media,Exploring,Writing,Problem Solving,Problem Solving,Psychology,Chemistry,55.06,7,9,28,Outdoor,Hands-On,Science Journalist
+Science,Media,Exploring,Drawing,Leadership,Creativity,Biology,Economics,91.73,7,5,34,Solo,Reading,Science Journalist
+Science,Media,Helping,Reading,Communication,Observation,Biology,Political Science,80.58,7,8,30,Structured,Listening,Science Journalist
+Science,Media,Drawing,Designing,Problem Solving,Communication,History,Political Science,76.69,4,6,30,Team,Reading,Science Journalist
+Science,Media,Exploring,Helping,Communication,Communication,Economics,History,67.64,9,9,38,Solo,Hands-On,Science Journalist
+Science,Media,Programming,Exploring,Communication,Empathy,Business Studies,Political Science,64.08,6,9,35,Structured,Listening,Science Journalist
+Science,Media,Exploring,Designing,Teamwork,Teamwork,Biology,Chemistry,98.19,7,7,33,Solo,Reading,Science Journalist
+Science,Media,Helping,Programming,Leadership,Empathy,Political Science,Computer Science,76.34,6,8,39,Team,Listening,Science Journalist
+Science,Media,Exploring,Reading,Creativity,Leadership,Political Science,Economics,67.14,4,3,37,Solo,Listening,Science Journalist
+Science,Media,Public Speaking,Designing,Creativity,Empathy,Computer Science,Physics,63.97,2,7,47,Structured,Hands-On,Science Journalist
+Science,Media,Writing,Reading,Teamwork,Creativity,Mathematics,Mathematics,74.94,8,7,34,Outdoor,Listening,Science Journalist
+Science,Media,Drawing,Drawing,Empathy,Empathy,Physics,Psychology,84.19,6,7,36,Outdoor,Hands-On,Science Journalist
+Science,Media,Drawing,Writing,Leadership,Leadership,Psychology,Computer Science,68.32,8,6,31,Solo,Reading,Science Journalist
+Science,Media,Designing,Programming,Leadership,Communication,Biology,Mathematics,80.37,5,7,34,Team,Hands-On,Science Journalist
+Science,Media,Public Speaking,Designing,Teamwork,Communication,Psychology,Computer Science,85.86,7,6,39,Structured,Listening,Science Journalist
+Science,Media,Exploring,Reading,Creativity,Problem Solving,Political Science,Computer Science,88.9,8,7,28,Outdoor,Listening,Science Journalist
+Science,Media,Exploring,Writing,Python,Creativity,History,Economics,64.35,6,5,34,Solo,Listening,Science Journalist
+Science,Outdoor,Public Speaking,Designing,Empathy,Teamwork,Computer Science,Economics,75.57,8,6,37,Outdoor,Hands-On,Civil Engineer
+Science,Outdoor,Drawing,Exploring,Observation,Python,Physics,Chemistry,75.64,3,5,34,Structured,Visual,Civil Engineer
+Science,Outdoor,Reading,Drawing,Teamwork,Teamwork,Physics,Business Studies,62.9,8,10,41,Team,Reading,Civil Engineer
+Science,Outdoor,Helping,Drawing,Leadership,Creativity,Economics,Computer Science,72.87,9,7,33,Solo,Hands-On,Civil Engineer
+Science,Outdoor,Drawing,Programming,Problem Solving,Leadership,Mathematics,Business Studies,68.87,6,6,35,Solo,Visual,Civil Engineer
+Science,Outdoor,Programming,Public Speaking,Teamwork,Creativity,Biology,Psychology,76.61,7,7,40,Team,Listening,Civil Engineer
+Science,Outdoor,Programming,Programming,Observation,Creativity,Business Studies,Biology,84.5,4,1,39,Structured,Visual,Civil Engineer
+Science,Outdoor,Public Speaking,Designing,Creativity,Creativity,Chemistry,Economics,61.33,6,4,25,Outdoor,Hands-On,Civil Engineer
+Science,Outdoor,Drawing,Designing,Communication,Communication,Chemistry,Political Science,80.41,8,5,22,Solo,Reading,Civil Engineer
+Science,Outdoor,Exploring,Writing,Empathy,Communication,Business Studies,Psychology,69.54,7,4,35,Structured,Reading,Civil Engineer
+Science,Outdoor,Reading,Reading,Communication,Creativity,Psychology,Business Studies,74.85,8,7,30,Outdoor,Listening,Civil Engineer
+Science,Outdoor,Writing,Drawing,Empathy,Leadership,Chemistry,Mathematics,86.97,6,6,30,Outdoor,Visual,Civil Engineer
+Science,Outdoor,Helping,Public Speaking,Empathy,Problem Solving,Computer Science,Physics,70.57,5,6,43,Team,Listening,Civil Engineer
+Science,Outdoor,Designing,Reading,Empathy,Teamwork,Psychology,Chemistry,61.28,3,9,33,Solo,Hands-On,Civil Engineer
+Science,Outdoor,Writing,Drawing,Problem Solving,Problem Solving,Economics,Political Science,68.31,9,5,44,Team,Listening,Civil Engineer
+Science,Outdoor,Reading,Programming,Creativity,Python,Computer Science,Mathematics,81.78,6,10,31,Solo,Visual,Civil Engineer
+Science,Outdoor,Designing,Helping,Problem Solving,Problem Solving,Business Studies,Chemistry,82.42,7,9,42,Team,Hands-On,Civil Engineer
+Science,Outdoor,Reading,Helping,Creativity,Empathy,Biology,Political Science,75.32,5,7,31,Outdoor,Listening,Civil Engineer
+Science,Outdoor,Reading,Helping,Problem Solving,Empathy,Physics,Mathematics,95.13,7,6,35,Solo,Listening,Civil Engineer
+Science,Outdoor,Reading,Exploring,Python,Leadership,Biology,Chemistry,61.53,5,9,31,Solo,Reading,Civil Engineer
+Science,Outdoor,Programming,Drawing,Teamwork,Observation,Political Science,Political Science,64.53,8,9,38,Outdoor,Reading,Civil Engineer
+Science,Outdoor,Writing,Drawing,Leadership,Creativity,Physics,Economics,84.96,5,4,42,Structured,Hands-On,Civil Engineer
+Science,Outdoor,Reading,Helping,Creativity,Teamwork,History,Political Science,71.77,6,9,37,Outdoor,Visual,Civil Engineer
+Science,Outdoor,Exploring,Drawing,Observation,Communication,Computer Science,Chemistry,79.56,10,5,39,Solo,Reading,Civil Engineer
+Science,Outdoor,Programming,Programming,Python,Empathy,Physics,History,75.57,7,10,37,Outdoor,Listening,Civil Engineer
+Science,Outdoor,Drawing,Drawing,Python,Problem Solving,Mathematics,Economics,80.38,9,6,30,Team,Listening,Civil Engineer
+Science,Outdoor,Writing,Helping,Creativity,Observation,Chemistry,Political Science,64.55,3,10,29,Solo,Reading,Civil Engineer
+Science,Outdoor,Public Speaking,Programming,Problem Solving,Creativity,History,Computer Science,72.79,6,7,39,Outdoor,Hands-On,Civil Engineer
+Science,Outdoor,Reading,Exploring,Python,Observation,Mathematics,Computer Science,83.6,5,6,36,Outdoor,Reading,Civil Engineer
+Science,Outdoor,Exploring,Writing,Teamwork,Empathy,Political Science,Mathematics,72.51,10,7,38,Team,Visual,Civil Engineer
+Science,Outdoor,Designing,Programming,Empathy,Observation,Physics,Economics,81.63,9,7,28,Solo,Listening,Civil Engineer
+Science,Outdoor,Helping,Reading,Empathy,Empathy,Business Studies,History,79.0,5,5,37,Solo,Reading,Civil Engineer
+Science,Outdoor,Helping,Reading,Python,Empathy,Political Science,Business Studies,87.38,7,7,43,Outdoor,Listening,Civil Engineer
+Science,Outdoor,Reading,Reading,Communication,Problem Solving,Chemistry,Psychology,77.41,10,8,26,Solo,Listening,Civil Engineer
+Science,Outdoor,Drawing,Public Speaking,Leadership,Leadership,Economics,Business Studies,82.53,7,9,38,Outdoor,Hands-On,Civil Engineer
+Science,Outdoor,Exploring,Helping,Empathy,Creativity,Mathematics,Biology,73.62,4,6,30,Solo,Reading,Civil Engineer
+Science,Outdoor,Reading,Drawing,Teamwork,Teamwork,Economics,Business Studies,69.19,8,10,36,Solo,Hands-On,Civil Engineer
+Science,Outdoor,Public Speaking,Exploring,Leadership,Teamwork,Computer Science,Chemistry,63.04,7,9,31,Solo,Reading,Civil Engineer
+Science,Outdoor,Helping,Programming,Empathy,Observation,Biology,Chemistry,73.66,7,5,38,Team,Hands-On,Civil Engineer
+Science,Outdoor,Designing,Programming,Leadership,Leadership,Biology,Physics,73.79,7,5,32,Structured,Listening,Civil Engineer
+Science,Outdoor,Public Speaking,Reading,Teamwork,Creativity,Biology,Chemistry,82.22,6,10,33,Solo,Visual,Civil Engineer
+Science,Outdoor,Public Speaking,Drawing,Empathy,Problem Solving,Economics,Chemistry,77.25,8,4,26,Outdoor,Visual,Civil Engineer
+Science,Outdoor,Programming,Reading,Empathy,Teamwork,Biology,Chemistry,59.74,9,5,47,Outdoor,Visual,Civil Engineer
+Science,Outdoor,Programming,Exploring,Python,Communication,Psychology,Business Studies,69.36,7,10,45,Structured,Listening,Civil Engineer
+Science,Outdoor,Programming,Designing,Problem Solving,Communication,Economics,Mathematics,95.62,9,9,37,Team,Hands-On,Civil Engineer
+Science,Outdoor,Helping,Exploring,Communication,Python,Psychology,Psychology,82.78,5,5,34,Team,Hands-On,Civil Engineer
+Science,Outdoor,Exploring,Designing,Teamwork,Python,Chemistry,Computer Science,73.3,6,8,39,Structured,Reading,Civil Engineer
+Science,Outdoor,Designing,Public Speaking,Empathy,Python,Business Studies,Economics,75.88,9,4,34,Structured,Listening,Civil Engineer
+Science,Outdoor,Writing,Writing,Problem Solving,Leadership,Biology,Physics,67.83,3,6,34,Outdoor,Reading,Civil Engineer
+Science,Outdoor,Programming,Helping,Python,Teamwork,Political Science,Economics,90.13,8,4,44,Team,Reading,Civil Engineer
+Science,Outdoor,Reading,Public Speaking,Empathy,Leadership,Political Science,Physics,87.21,8,6,30,Team,Listening,Civil Engineer
+Science,Outdoor,Writing,Drawing,Communication,Empathy,Psychology,Economics,71.28,9,10,42,Outdoor,Visual,Civil Engineer
+Science,Outdoor,Writing,Drawing,Empathy,Teamwork,Political Science,Computer Science,70.11,4,7,26,Team,Listening,Civil Engineer
+Science,Outdoor,Programming,Reading,Python,Empathy,Psychology,Mathematics,78.23,6,6,27,Solo,Listening,Civil Engineer
+Science,Outdoor,Programming,Writing,Empathy,Communication,Economics,Biology,80.14,5,4,20,Outdoor,Visual,Civil Engineer
+Commerce,Organize,Programming,Drawing,Communication,Creativity,Political Science,Economics,74.72,10,10,32,Solo,Hands-On,Management
+Commerce,Organize,Designing,Reading,Observation,Leadership,Economics,Biology,68.98,7,5,36,Team,Listening,Management
+Commerce,Organize,Exploring,Writing,Communication,Observation,Mathematics,Psychology,82.66,9,6,33,Team,Listening,Management
+Commerce,Organize,Helping,Helping,Communication,Communication,Physics,Psychology,66.22,5,6,36,Structured,Visual,Management
+Commerce,Organize,Drawing,Writing,Empathy,Creativity,History,Biology,84.14,5,9,33,Outdoor,Visual,Management
+Commerce,Organize,Public Speaking,Writing,Observation,Communication,Chemistry,Economics,74.79,5,2,39,Structured,Visual,Management
+Commerce,Organize,Helping,Public Speaking,Empathy,Creativity,Economics,Computer Science,82.37,6,7,37,Solo,Visual,Management
+Commerce,Organize,Programming,Designing,Teamwork,Problem Solving,Biology,Business Studies,59.37,5,8,28,Structured,Listening,Management
+Commerce,Organize,Writing,Designing,Creativity,Teamwork,Psychology,Mathematics,77.94,4,7,34,Team,Listening,Management
+Commerce,Organize,Reading,Programming,Leadership,Python,Economics,Computer Science,58.85,9,5,30,Solo,Visual,Management
+Commerce,Organize,Writing,Drawing,Problem Solving,Communication,Chemistry,Political Science,77.01,9,4,35,Solo,Hands-On,Management
+Commerce,Organize,Exploring,Programming,Problem Solving,Communication,Psychology,Business Studies,79.29,8,7,33,Team,Visual,Management
+Commerce,Organize,Reading,Writing,Empathy,Empathy,Business Studies,Political Science,66.72,7,4,20,Outdoor,Hands-On,Management
+Commerce,Organize,Helping,Public Speaking,Creativity,Python,Business Studies,Psychology,79.37,8,2,29,Structured,Reading,Management
+Commerce,Organize,Programming,Writing,Python,Problem Solving,Chemistry,Computer Science,81.19,10,7,31,Structured,Reading,Management
+Commerce,Organize,Reading,Programming,Empathy,Communication,Computer Science,Chemistry,73.17,9,5,31,Structured,Visual,Management
+Commerce,Organize,Helping,Designing,Teamwork,Teamwork,Computer Science,Chemistry,70.17,5,7,43,Structured,Reading,Management
+Commerce,Organize,Writing,Designing,Observation,Communication,History,Physics,78.23,6,6,27,Outdoor,Listening,Management
+Commerce,Organize,Exploring,Helping,Empathy,Leadership,Psychology,Physics,83.83,6,6,50,Team,Visual,Management
+Commerce,Organize,Reading,Writing,Problem Solving,Empathy,Political Science,Physics,77.99,5,6,40,Structured,Listening,Management
+Commerce,Organize,Exploring,Public Speaking,Teamwork,Leadership,Chemistry,Business Studies,76.13,4,8,31,Solo,Reading,Management
+Commerce,Organize,Reading,Exploring,Communication,Communication,Mathematics,Mathematics,93.73,9,6,41,Team,Visual,Management
+Commerce,Organize,Designing,Reading,Problem Solving,Empathy,Biology,Psychology,75.68,8,7,30,Outdoor,Hands-On,Management
+Commerce,Organize,Reading,Reading,Problem Solving,Problem Solving,Political Science,Economics,68.56,9,6,32,Outdoor,Listening,Management
+Commerce,Organize,Programming,Designing,Creativity,Problem Solving,Biology,Biology,65.45,7,10,29,Solo,Visual,Management
+Commerce,Organize,Reading,Helping,Observation,Problem Solving,Computer Science,Business Studies,75.24,9,6,37,Structured,Listening,Management
+Commerce,Organize,Programming,Drawing,Leadership,Problem Solving,Biology,Psychology,64.38,7,6,39,Structured,Visual,Management
+Commerce,Organize,Designing,Writing,Empathy,Python,History,Computer Science,86.87,10,8,36,Outdoor,Visual,Management
+Commerce,Organize,Writing,Helping,Leadership,Leadership,History,Chemistry,76.94,6,7,33,Team,Reading,Management
+Commerce,Organize,Helping,Exploring,Observation,Leadership,Business Studies,Psychology,76.68,9,4,40,Solo,Reading,Management
+Commerce,Organize,Exploring,Public Speaking,Problem Solving,Teamwork,Political Science,Economics,88.17,6,2,31,Solo,Reading,Management
+Commerce,Organize,Reading,Helping,Problem Solving,Communication,Political Science,Psychology,87.97,6,5,32,Solo,Reading,Management
+Commerce,Organize,Public Speaking,Public Speaking,Python,Empathy,Physics,History,83.41,8,6,33,Solo,Hands-On,Management
+Commerce,Organize,Public Speaking,Helping,Observation,Teamwork,Political Science,Business Studies,71.08,5,10,33,Solo,Visual,Management
+Commerce,Organize,Public Speaking,Writing,Teamwork,Teamwork,Biology,History,87.17,10,8,32,Outdoor,Hands-On,Management
+Commerce,Organize,Drawing,Helping,Creativity,Leadership,Physics,Business Studies,79.04,6,5,36,Solo,Reading,Management
+Commerce,Organize,Public Speaking,Public Speaking,Empathy,Empathy,Computer Science,Business Studies,63.21,9,6,36,Solo,Visual,Management
+Commerce,Organize,Exploring,Drawing,Communication,Python,Mathematics,Computer Science,77.83,6,8,32,Outdoor,Hands-On,Management
+Commerce,Organize,Designing,Designing,Observation,Teamwork,Computer Science,Mathematics,83.71,4,7,44,Structured,Hands-On,Management
+Commerce,Organize,Designing,Reading,Python,Observation,Political Science,Psychology,65.0,5,8,35,Outdoor,Hands-On,Management
+Commerce,Organize,Reading,Exploring,Creativity,Observation,Computer Science,Economics,78.51,7,8,40,Outdoor,Hands-On,Management
+Commerce,Organize,Helping,Public Speaking,Communication,Empathy,Physics,Psychology,79.1,6,8,44,Structured,Hands-On,Management
+Commerce,Organize,Drawing,Programming,Teamwork,Leadership,Computer Science,Business Studies,73.67,5,9,34,Structured,Listening,Management
+Commerce,Organize,Programming,Public Speaking,Observation,Empathy,Political Science,History,53.27,8,5,34,Outdoor,Hands-On,Management
+Commerce,Organize,Drawing,Drawing,Leadership,Creativity,History,Biology,78.32,7,8,32,Outdoor,Reading,Management
+Commerce,Organize,Writing,Reading,Empathy,Observation,Mathematics,Computer Science,80.13,6,8,38,Structured,Hands-On,Management
+Commerce,Organize,Writing,Helping,Leadership,Teamwork,Chemistry,History,65.65,9,5,39,Solo,Visual,Management
+Commerce,Organize,Exploring,Public Speaking,Creativity,Problem Solving,Political Science,Computer Science,78.67,10,6,33,Structured,Visual,Management
+Commerce,Organize,Drawing,Drawing,Empathy,Observation,Business Studies,Psychology,74.81,6,8,26,Structured,Reading,Management
+Commerce,Organize,Writing,Drawing,Creativity,Teamwork,Economics,Biology,64.46,4,8,43,Outdoor,Visual,Management
+Commerce,Organize,Programming,Exploring,Leadership,Empathy,Biology,Psychology,73.96,6,7,40,Team,Listening,Management
+Commerce,Organize,Reading,Drawing,Problem Solving,Problem Solving,Business Studies,Business Studies,65.73,7,8,37,Structured,Listening,Management
+Commerce,Organize,Programming,Programming,Empathy,Observation,Physics,Economics,76.9,9,1,38,Team,Visual,Management
+Commerce,Organize,Programming,Public Speaking,Empathy,Observation,Computer Science,Biology,68.46,3,8,41,Solo,Listening,Management
+Commerce,Organize,Helping,Drawing,Creativity,Python,Computer Science,Computer Science,73.63,8,10,41,Structured,Hands-On,Management
+Commerce,Care,Designing,Drawing,Observation,Teamwork,Economics,Mathematics,91.4,8,7,26,Team,Listening,Accountant
+Commerce,Care,Programming,Public Speaking,Empathy,Communication,Mathematics,Physics,72.54,5,10,34,Team,Visual,Accountant
+Commerce,Care,Writing,Programming,Problem Solving,Leadership,Political Science,Psychology,76.23,8,7,43,Solo,Visual,Accountant
+Commerce,Care,Reading,Programming,Python,Creativity,Business Studies,History,68.77,7,5,28,Structured,Visual,Accountant
+Commerce,Care,Helping,Exploring,Communication,Empathy,Physics,Computer Science,68.88,6,6,31,Structured,Visual,Accountant
+Commerce,Care,Helping,Drawing,Problem Solving,Creativity,Political Science,Psychology,60.94,6,3,38,Solo,Hands-On,Accountant
+Commerce,Care,Reading,Reading,Teamwork,Empathy,Psychology,Mathematics,75.82,4,6,31,Outdoor,Reading,Accountant
+Commerce,Care,Writing,Designing,Leadership,Communication,Physics,Political Science,78.19,9,3,35,Structured,Reading,Accountant
+Commerce,Care,Exploring,Writing,Empathy,Python,Physics,Chemistry,73.4,8,7,31,Solo,Listening,Accountant
+Commerce,Care,Drawing,Reading,Creativity,Creativity,Computer Science,Mathematics,71.81,5,9,35,Structured,Hands-On,Accountant
+Commerce,Care,Helping,Exploring,Python,Creativity,Biology,Physics,94.01,6,5,27,Outdoor,Hands-On,Accountant
+Commerce,Care,Writing,Designing,Creativity,Creativity,Physics,Physics,56.97,3,7,37,Team,Reading,Accountant
+Commerce,Care,Writing,Writing,Teamwork,Leadership,Chemistry,Economics,59.19,8,6,35,Outdoor,Reading,Accountant
+Commerce,Care,Reading,Designing,Problem Solving,Teamwork,Computer Science,Business Studies,91.12,8,6,30,Structured,Listening,Accountant
+Commerce,Care,Drawing,Reading,Communication,Python,Biology,Chemistry,53.48,5,6,30,Structured,Listening,Accountant
+Commerce,Care,Exploring,Drawing,Problem Solving,Observation,Psychology,Physics,73.69,7,6,31,Team,Listening,Accountant
+Commerce,Care,Exploring,Reading,Problem Solving,Teamwork,Physics,Chemistry,76.69,7,4,42,Outdoor,Hands-On,Accountant
+Commerce,Care,Programming,Public Speaking,Observation,Creativity,Business Studies,Mathematics,74.01,7,8,36,Structured,Hands-On,Accountant
+Commerce,Care,Designing,Drawing,Python,Python,Biology,Political Science,84.53,7,5,36,Structured,Listening,Accountant
+Commerce,Care,Drawing,Reading,Teamwork,Observation,Mathematics,Economics,63.56,7,6,33,Outdoor,Visual,Accountant
+Commerce,Care,Public Speaking,Designing,Problem Solving,Empathy,Chemistry,History,73.71,3,5,35,Structured,Listening,Accountant
+Commerce,Care,Reading,Exploring,Teamwork,Observation,Chemistry,History,76.6,4,9,30,Solo,Visual,Accountant
+Commerce,Care,Designing,Designing,Python,Python,Chemistry,Psychology,84.69,7,5,43,Outdoor,Reading,Accountant
+Commerce,Care,Exploring,Writing,Observation,Python,Mathematics,History,63.06,8,9,31,Outdoor,Listening,Accountant
+Commerce,Care,Writing,Exploring,Creativity,Creativity,Mathematics,Physics,88.92,6,7,36,Outdoor,Hands-On,Accountant
+Commerce,Care,Helping,Writing,Creativity,Python,Biology,History,73.66,8,8,26,Team,Listening,Accountant
+Commerce,Care,Reading,Helping,Empathy,Empathy,Chemistry,Business Studies,88.04,3,9,40,Team,Listening,Accountant
+Commerce,Care,Public Speaking,Writing,Creativity,Problem Solving,Physics,Psychology,64.09,6,4,33,Solo,Listening,Accountant
+Commerce,Care,Exploring,Drawing,Teamwork,Python,Political Science,Physics,71.92,8,9,41,Structured,Listening,Accountant
+Commerce,Care,Drawing,Drawing,Communication,Creativity,Business Studies,Psychology,69.38,6,3,30,Outdoor,Listening,Accountant
+Commerce,Care,Designing,Public Speaking,Leadership,Problem Solving,Economics,Computer Science,84.65,10,4,32,Structured,Reading,Accountant
+Commerce,Care,Drawing,Designing,Leadership,Observation,Political Science,Mathematics,74.74,7,5,37,Team,Reading,Accountant
+Commerce,Care,Helping,Writing,Communication,Communication,Political Science,Political Science,70.26,6,8,35,Outdoor,Visual,Accountant
+Commerce,Care,Writing,Exploring,Problem Solving,Leadership,Business Studies,Physics,70.64,6,6,33,Solo,Visual,Accountant
+Commerce,Care,Designing,Drawing,Python,Python,Mathematics,Computer Science,72.41,10,8,33,Team,Hands-On,Accountant
+Commerce,Care,Helping,Drawing,Python,Leadership,Mathematics,Political Science,81.97,6,9,36,Solo,Hands-On,Accountant
+Commerce,Care,Exploring,Reading,Empathy,Problem Solving,Mathematics,Political Science,73.93,7,3,29,Outdoor,Visual,Accountant
+Commerce,Care,Designing,Designing,Problem Solving,Observation,Political Science,Physics,63.06,7,10,46,Solo,Hands-On,Accountant
+Commerce,Care,Public Speaking,Exploring,Empathy,Observation,Psychology,Political Science,81.38,8,3,32,Team,Reading,Accountant
+Commerce,Care,Helping,Exploring,Communication,Creativity,Biology,Biology,67.12,5,6,32,Solo,Listening,Accountant
+Commerce,Care,Programming,Designing,Leadership,Leadership,Biology,Biology,55.21,8,4,36,Outdoor,Visual,Accountant
+Commerce,Care,Writing,Exploring,Communication,Python,Biology,Economics,95.74,5,1,33,Solo,Hands-On,Accountant
+Commerce,Care,Exploring,Writing,Creativity,Observation,Political Science,Mathematics,86.01,10,4,37,Team,Visual,Accountant
+Commerce,Care,Drawing,Designing,Problem Solving,Creativity,Economics,Mathematics,70.35,6,10,27,Team,Hands-On,Accountant
+Commerce,Care,Writing,Writing,Leadership,Empathy,Psychology,Political Science,77.54,7,9,35,Structured,Visual,Accountant
+Commerce,Care,Reading,Writing,Teamwork,Empathy,Psychology,Psychology,78.08,6,7,33,Team,Visual,Accountant
+Commerce,Care,Writing,Designing,Creativity,Problem Solving,Computer Science,Political Science,81.22,6,7,34,Outdoor,Visual,Accountant
+Commerce,Care,Writing,Exploring,Teamwork,Python,Computer Science,Mathematics,86.26,6,3,41,Outdoor,Visual,Accountant
+Commerce,Care,Reading,Drawing,Python,Creativity,Mathematics,Mathematics,65.94,5,5,41,Structured,Visual,Accountant
+Commerce,Care,Public Speaking,Designing,Creativity,Communication,Physics,History,53.64,10,9,36,Outdoor,Visual,Accountant
+Commerce,Care,Reading,Reading,Python,Communication,Computer Science,Political Science,74.45,7,8,38,Solo,Reading,Accountant
+Commerce,Care,Helping,Designing,Problem Solving,Teamwork,Business Studies,Business Studies,80.56,7,6,34,Outdoor,Visual,Accountant
+Commerce,Care,Designing,Reading,Python,Creativity,Psychology,Physics,73.05,9,8,20,Solo,Hands-On,Accountant
+Commerce,Care,Reading,Helping,Leadership,Creativity,Computer Science,History,81.56,7,6,33,Structured,Listening,Accountant
+Commerce,Care,Programming,Exploring,Communication,Empathy,Biology,Business Studies,86.24,8,5,37,Outdoor,Reading,Accountant
+Commerce,Media,Helping,Writing,Python,Communication,Chemistry,Physics,65.28,4,5,39,Solo,Listening,Marketing Specialist
+Commerce,Media,Reading,Helping,Empathy,Observation,Mathematics,Business Studies,84.53,8,8,37,Team,Reading,Marketing Specialist
+Commerce,Media,Drawing,Public Speaking,Leadership,Empathy,Chemistry,Biology,68.59,7,8,38,Solo,Listening,Marketing Specialist
+Commerce,Media,Reading,Helping,Creativity,Leadership,Chemistry,Mathematics,86.89,8,7,40,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Writing,Drawing,Empathy,Creativity,Computer Science,Psychology,74.73,5,6,31,Solo,Reading,Marketing Specialist
+Commerce,Media,Writing,Exploring,Teamwork,Observation,Psychology,Computer Science,68.25,6,5,33,Team,Hands-On,Marketing Specialist
+Commerce,Media,Writing,Designing,Communication,Python,Economics,Mathematics,56.06,7,7,30,Team,Listening,Marketing Specialist
+Commerce,Media,Helping,Writing,Communication,Observation,History,History,81.59,8,3,31,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Helping,Exploring,Creativity,Communication,Psychology,Chemistry,67.31,5,8,34,Outdoor,Reading,Marketing Specialist
+Commerce,Media,Public Speaking,Helping,Creativity,Creativity,Physics,Political Science,72.35,2,8,28,Solo,Listening,Marketing Specialist
+Commerce,Media,Public Speaking,Programming,Leadership,Teamwork,Biology,Economics,75.6,7,9,28,Structured,Reading,Marketing Specialist
+Commerce,Media,Helping,Drawing,Teamwork,Creativity,Business Studies,Economics,44.8,7,10,41,Solo,Reading,Marketing Specialist
+Commerce,Media,Drawing,Drawing,Teamwork,Communication,Biology,Psychology,77.1,6,8,30,Team,Listening,Marketing Specialist
+Commerce,Media,Writing,Programming,Empathy,Teamwork,Mathematics,Chemistry,79.76,8,9,48,Outdoor,Hands-On,Marketing Specialist
+Commerce,Media,Public Speaking,Programming,Empathy,Observation,Business Studies,History,78.92,5,6,26,Structured,Visual,Marketing Specialist
+Commerce,Media,Programming,Writing,Creativity,Leadership,Computer Science,Psychology,68.05,6,5,35,Team,Listening,Marketing Specialist
+Commerce,Media,Designing,Writing,Creativity,Leadership,Business Studies,Mathematics,66.78,9,7,34,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Writing,Exploring,Teamwork,Python,Political Science,Biology,71.72,7,8,30,Structured,Reading,Marketing Specialist
+Commerce,Media,Public Speaking,Reading,Leadership,Empathy,Biology,Biology,68.42,6,4,30,Team,Hands-On,Marketing Specialist
+Commerce,Media,Reading,Public Speaking,Problem Solving,Observation,Chemistry,History,70.24,8,7,35,Structured,Listening,Marketing Specialist
+Commerce,Media,Public Speaking,Drawing,Problem Solving,Python,Mathematics,Physics,83.51,6,7,34,Team,Reading,Marketing Specialist
+Commerce,Media,Drawing,Programming,Communication,Python,Biology,Computer Science,77.65,5,2,34,Team,Listening,Marketing Specialist
+Commerce,Media,Programming,Helping,Creativity,Empathy,History,Psychology,89.23,8,8,41,Structured,Listening,Marketing Specialist
+Commerce,Media,Drawing,Public Speaking,Problem Solving,Communication,Psychology,Biology,75.89,7,5,33,Outdoor,Reading,Marketing Specialist
+Commerce,Media,Writing,Exploring,Creativity,Empathy,Business Studies,Business Studies,81.16,9,6,32,Team,Visual,Marketing Specialist
+Commerce,Media,Programming,Public Speaking,Problem Solving,Communication,Psychology,Chemistry,75.01,8,4,23,Team,Listening,Marketing Specialist
+Commerce,Media,Programming,Reading,Creativity,Teamwork,Biology,Psychology,69.49,4,5,34,Solo,Listening,Marketing Specialist
+Commerce,Media,Designing,Writing,Python,Problem Solving,Mathematics,History,70.47,9,7,36,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Reading,Designing,Communication,Leadership,History,Mathematics,81.22,4,9,34,Solo,Hands-On,Marketing Specialist
+Commerce,Media,Designing,Helping,Empathy,Python,Physics,Psychology,81.7,4,3,39,Solo,Visual,Marketing Specialist
+Commerce,Media,Designing,Public Speaking,Observation,Problem Solving,Economics,Chemistry,78.76,5,5,40,Team,Listening,Marketing Specialist
+Commerce,Media,Helping,Helping,Problem Solving,Observation,Psychology,Computer Science,63.11,10,5,38,Structured,Reading,Marketing Specialist
+Commerce,Media,Designing,Exploring,Communication,Observation,Political Science,Political Science,71.71,8,5,34,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Helping,Writing,Problem Solving,Communication,Chemistry,Mathematics,75.41,4,8,32,Structured,Reading,Marketing Specialist
+Commerce,Media,Reading,Public Speaking,Problem Solving,Observation,Political Science,Psychology,72.71,5,1,34,Solo,Reading,Marketing Specialist
+Commerce,Media,Designing,Programming,Creativity,Communication,History,Psychology,99.13,8,6,33,Structured,Visual,Marketing Specialist
+Commerce,Media,Reading,Helping,Empathy,Observation,Chemistry,Psychology,75.22,8,4,40,Solo,Listening,Marketing Specialist
+Commerce,Media,Designing,Helping,Python,Communication,History,History,82.15,8,7,35,Solo,Reading,Marketing Specialist
+Commerce,Media,Helping,Public Speaking,Python,Empathy,Psychology,Biology,81.73,8,6,32,Solo,Hands-On,Marketing Specialist
+Commerce,Media,Public Speaking,Programming,Communication,Creativity,Computer Science,Business Studies,76.02,10,4,27,Outdoor,Listening,Marketing Specialist
+Commerce,Media,Designing,Public Speaking,Python,Creativity,Chemistry,Political Science,76.65,7,7,36,Outdoor,Hands-On,Marketing Specialist
+Commerce,Media,Writing,Helping,Empathy,Empathy,History,Business Studies,72.77,9,3,30,Solo,Hands-On,Marketing Specialist
+Commerce,Media,Drawing,Designing,Creativity,Creativity,Political Science,Computer Science,73.97,3,6,43,Outdoor,Visual,Marketing Specialist
+Commerce,Media,Helping,Helping,Teamwork,Problem Solving,Psychology,History,75.21,7,4,31,Team,Hands-On,Marketing Specialist
+Commerce,Media,Exploring,Exploring,Python,Teamwork,Chemistry,Computer Science,71.25,6,9,37,Solo,Listening,Marketing Specialist
+Commerce,Media,Public Speaking,Public Speaking,Observation,Problem Solving,Economics,Political Science,63.89,7,7,40,Solo,Hands-On,Marketing Specialist
+Commerce,Media,Public Speaking,Helping,Creativity,Problem Solving,Economics,Chemistry,90.81,4,5,28,Team,Listening,Marketing Specialist
+Commerce,Media,Writing,Writing,Empathy,Leadership,Biology,Mathematics,72.66,7,8,34,Structured,Reading,Marketing Specialist
+Commerce,Media,Public Speaking,Public Speaking,Leadership,Empathy,Mathematics,Mathematics,71.8,7,5,45,Team,Hands-On,Marketing Specialist
+Commerce,Media,Drawing,Reading,Creativity,Creativity,History,Psychology,58.92,7,10,35,Solo,Visual,Marketing Specialist
+Commerce,Media,Exploring,Writing,Observation,Teamwork,Psychology,Computer Science,73.1,6,6,41,Structured,Reading,Marketing Specialist
+Commerce,Media,Helping,Designing,Empathy,Communication,Physics,Political Science,52.88,10,4,33,Structured,Listening,Marketing Specialist
+Commerce,Media,Programming,Writing,Problem Solving,Communication,History,Chemistry,70.71,8,3,37,Structured,Hands-On,Marketing Specialist
+Commerce,Media,Programming,Programming,Empathy,Problem Solving,Psychology,Chemistry,95.24,4,7,31,Outdoor,Hands-On,Marketing Specialist
+Commerce,Media,Helping,Drawing,Leadership,Empathy,Computer Science,History,79.26,7,5,37,Outdoor,Hands-On,Marketing Specialist
+Commerce,Design,Drawing,Exploring,Problem Solving,Empathy,Business Studies,Economics,93.04,6,8,28,Outdoor,Listening,Chef
+Commerce,Design,Helping,Exploring,Communication,Communication,Psychology,Mathematics,65.44,7,9,36,Solo,Hands-On,Chef
+Commerce,Design,Public Speaking,Designing,Problem Solving,Empathy,Biology,Biology,71.87,6,4,38,Structured,Visual,Chef
+Commerce,Design,Drawing,Designing,Teamwork,Communication,Political Science,Political Science,83.82,6,6,36,Outdoor,Listening,Chef
+Commerce,Design,Helping,Helping,Python,Problem Solving,Chemistry,Biology,70.63,6,10,33,Solo,Reading,Chef
+Commerce,Design,Helping,Exploring,Creativity,Teamwork,Economics,Computer Science,71.42,5,8,34,Outdoor,Hands-On,Chef
+Commerce,Design,Helping,Writing,Python,Problem Solving,Chemistry,Economics,68.51,9,9,31,Team,Reading,Chef
+Commerce,Design,Helping,Writing,Observation,Teamwork,History,Chemistry,56.33,9,5,38,Structured,Hands-On,Chef
+Commerce,Design,Exploring,Drawing,Communication,Observation,Business Studies,Psychology,55.3,8,4,38,Structured,Visual,Chef
+Commerce,Design,Reading,Drawing,Observation,Empathy,Economics,Economics,75.14,5,6,38,Outdoor,Hands-On,Chef
+Commerce,Design,Designing,Helping,Teamwork,Observation,Psychology,Political Science,76.06,8,10,27,Structured,Listening,Chef
+Commerce,Design,Drawing,Drawing,Python,Communication,Mathematics,Computer Science,91.17,7,5,28,Solo,Reading,Chef
+Commerce,Design,Drawing,Designing,Creativity,Creativity,Chemistry,History,73.11,8,6,42,Solo,Visual,Chef
+Commerce,Design,Designing,Reading,Creativity,Leadership,Psychology,Biology,60.49,6,4,36,Solo,Listening,Chef
+Commerce,Design,Helping,Public Speaking,Empathy,Leadership,History,Biology,83.87,6,1,35,Team,Reading,Chef
+Commerce,Design,Programming,Programming,Observation,Observation,History,History,79.37,7,9,29,Outdoor,Listening,Chef
+Commerce,Design,Drawing,Drawing,Teamwork,Problem Solving,Political Science,Political Science,81.8,9,3,36,Outdoor,Hands-On,Chef
+Commerce,Design,Exploring,Public Speaking,Creativity,Teamwork,Computer Science,Economics,69.96,6,7,32,Structured,Hands-On,Chef
+Commerce,Design,Drawing,Helping,Python,Python,Political Science,Biology,68.24,7,4,29,Outdoor,Hands-On,Chef
+Commerce,Design,Exploring,Programming,Teamwork,Teamwork,Computer Science,Physics,81.79,4,8,37,Structured,Hands-On,Chef
+Commerce,Design,Public Speaking,Programming,Observation,Empathy,Business Studies,Political Science,57.74,5,9,30,Structured,Listening,Chef
+Commerce,Design,Public Speaking,Drawing,Problem Solving,Problem Solving,Mathematics,Computer Science,70.36,7,8,33,Solo,Listening,Chef
+Commerce,Design,Public Speaking,Helping,Leadership,Leadership,Business Studies,Mathematics,69.02,9,10,39,Solo,Reading,Chef
+Commerce,Design,Drawing,Helping,Creativity,Teamwork,Psychology,History,75.85,5,5,37,Outdoor,Listening,Chef
+Commerce,Design,Public Speaking,Writing,Python,Communication,Physics,Political Science,79.18,9,8,27,Solo,Reading,Chef
+Commerce,Design,Reading,Helping,Leadership,Communication,History,Physics,85.52,5,6,36,Team,Visual,Chef
+Commerce,Design,Drawing,Programming,Teamwork,Empathy,Economics,Business Studies,94.96,10,8,34,Outdoor,Listening,Chef
+Commerce,Design,Writing,Exploring,Python,Observation,Chemistry,Biology,80.35,8,6,43,Solo,Hands-On,Chef
+Commerce,Design,Designing,Reading,Teamwork,Communication,Mathematics,Computer Science,77.3,7,8,37,Structured,Visual,Chef
+Commerce,Design,Reading,Public Speaking,Problem Solving,Teamwork,Mathematics,Physics,83.39,5,5,29,Team,Listening,Chef
+Commerce,Design,Reading,Public Speaking,Teamwork,Problem Solving,Computer Science,Economics,79.4,8,7,43,Team,Visual,Chef
+Commerce,Design,Reading,Helping,Teamwork,Leadership,Mathematics,Economics,74.94,8,4,33,Solo,Reading,Chef
+Commerce,Design,Reading,Public Speaking,Problem Solving,Observation,Physics,Biology,81.96,8,6,34,Outdoor,Visual,Chef
+Commerce,Design,Designing,Public Speaking,Python,Python,Psychology,History,59.82,6,8,37,Team,Hands-On,Chef
+Commerce,Design,Reading,Public Speaking,Communication,Teamwork,Chemistry,Psychology,80.01,7,7,31,Outdoor,Visual,Chef
+Commerce,Design,Programming,Writing,Communication,Creativity,Biology,History,81.99,7,7,32,Team,Hands-On,Chef
+Commerce,Design,Writing,Exploring,Empathy,Python,Business Studies,Economics,53.47,9,6,30,Team,Hands-On,Chef
+Commerce,Design,Programming,Exploring,Teamwork,Leadership,Political Science,History,81.93,6,9,38,Team,Reading,Chef
+Commerce,Design,Writing,Writing,Teamwork,Leadership,Psychology,Political Science,81.84,4,9,36,Team,Visual,Chef
+Commerce,Design,Drawing,Exploring,Leadership,Leadership,Political Science,Economics,71.31,7,3,37,Structured,Visual,Chef
+Commerce,Design,Designing,Drawing,Python,Observation,Psychology,Mathematics,64.71,4,3,40,Outdoor,Visual,Chef
+Commerce,Design,Designing,Public Speaking,Teamwork,Communication,Psychology,Computer Science,68.71,10,5,26,Outdoor,Listening,Chef
+Commerce,Design,Writing,Reading,Creativity,Creativity,Physics,Biology,63.83,9,6,32,Team,Visual,Chef
+Commerce,Design,Public Speaking,Reading,Teamwork,Empathy,Chemistry,Physics,76.6,8,9,42,Structured,Listening,Chef
+Commerce,Design,Helping,Programming,Observation,Empathy,Psychology,Chemistry,71.4,4,6,36,Solo,Reading,Chef
+Commerce,Design,Exploring,Reading,Teamwork,Python,Economics,Political Science,65.36,5,7,34,Structured,Hands-On,Chef
+Commerce,Design,Programming,Helping,Python,Creativity,Computer Science,Chemistry,75.33,5,6,30,Team,Visual,Chef
+Commerce,Design,Reading,Public Speaking,Problem Solving,Empathy,Mathematics,Political Science,83.9,9,3,30,Team,Reading,Chef
+Commerce,Design,Designing,Reading,Observation,Teamwork,Business Studies,Chemistry,60.03,5,6,27,Team,Reading,Chef
+Commerce,Design,Designing,Writing,Communication,Teamwork,Economics,Economics,65.78,4,7,35,Outdoor,Hands-On,Chef
+Commerce,Design,Designing,Designing,Observation,Empathy,Psychology,Political Science,67.78,7,5,33,Team,Listening,Chef
+Commerce,Design,Helping,Writing,Teamwork,Teamwork,Business Studies,Physics,91.73,9,4,39,Solo,Hands-On,Chef
+Commerce,Design,Programming,Drawing,Leadership,Python,Computer Science,Mathematics,83.11,4,8,42,Team,Hands-On,Chef
+Commerce,Design,Programming,Helping,Communication,Creativity,Physics,History,63.77,5,9,36,Outdoor,Reading,Chef
+Commerce,Design,Drawing,Helping,Observation,Empathy,Mathematics,Computer Science,80.51,7,7,28,Outdoor,Visual,Chef
+Commerce,Code,Designing,Public Speaking,Creativity,Observation,History,Biology,85.47,9,6,34,Structured,Visual,Financial Analyst
+Commerce,Code,Helping,Programming,Problem Solving,Creativity,Physics,Economics,59.69,8,8,34,Outdoor,Listening,Financial Analyst
+Commerce,Code,Designing,Reading,Empathy,Python,Business Studies,Physics,86.24,6,8,29,Outdoor,Visual,Financial Analyst
+Commerce,Code,Writing,Drawing,Observation,Empathy,Biology,Physics,74.76,6,7,33,Structured,Listening,Financial Analyst
+Commerce,Code,Reading,Public Speaking,Problem Solving,Leadership,Business Studies,Biology,73.69,8,6,26,Team,Hands-On,Financial Analyst
+Commerce,Code,Reading,Exploring,Python,Problem Solving,Computer Science,Chemistry,92.5,9,4,38,Structured,Listening,Financial Analyst
+Commerce,Code,Drawing,Drawing,Teamwork,Empathy,History,Business Studies,69.97,7,7,33,Team,Reading,Financial Analyst
+Commerce,Code,Public Speaking,Reading,Leadership,Problem Solving,Economics,Psychology,67.16,5,5,30,Solo,Visual,Financial Analyst
+Commerce,Code,Designing,Designing,Observation,Observation,Mathematics,Economics,74.33,5,8,42,Outdoor,Visual,Financial Analyst
+Commerce,Code,Helping,Drawing,Observation,Teamwork,Psychology,Biology,69.2,7,7,37,Structured,Visual,Financial Analyst
+Commerce,Code,Public Speaking,Public Speaking,Observation,Communication,Chemistry,Chemistry,75.76,8,7,28,Solo,Reading,Financial Analyst
+Commerce,Code,Drawing,Helping,Python,Observation,Chemistry,Computer Science,83.69,8,5,35,Structured,Listening,Financial Analyst
+Commerce,Code,Programming,Writing,Empathy,Empathy,Mathematics,Political Science,81.83,6,9,46,Outdoor,Listening,Financial Analyst
+Commerce,Code,Drawing,Programming,Problem Solving,Python,Computer Science,Biology,67.14,4,7,38,Solo,Hands-On,Financial Analyst
+Commerce,Code,Public Speaking,Helping,Python,Teamwork,Physics,Chemistry,72.69,9,4,38,Structured,Hands-On,Financial Analyst
+Commerce,Code,Writing,Reading,Python,Leadership,Business Studies,Mathematics,68.94,10,10,31,Structured,Visual,Financial Analyst
+Commerce,Code,Writing,Exploring,Creativity,Communication,Mathematics,Political Science,69.5,8,6,34,Structured,Visual,Financial Analyst
+Commerce,Code,Programming,Public Speaking,Leadership,Observation,History,Business Studies,75.25,3,6,31,Team,Visual,Financial Analyst
+Commerce,Code,Writing,Writing,Observation,Leadership,Mathematics,Political Science,70.07,9,4,39,Outdoor,Visual,Financial Analyst
+Commerce,Code,Helping,Designing,Python,Leadership,Mathematics,Biology,72.21,6,8,36,Outdoor,Listening,Financial Analyst
+Commerce,Code,Drawing,Reading,Problem Solving,Empathy,Business Studies,Mathematics,80.71,8,6,31,Team,Listening,Financial Analyst
+Commerce,Code,Helping,Writing,Teamwork,Communication,Mathematics,Biology,64.15,5,10,41,Team,Reading,Financial Analyst
+Commerce,Code,Helping,Drawing,Problem Solving,Communication,Psychology,Biology,61.49,4,7,37,Outdoor,Visual,Financial Analyst
+Commerce,Code,Reading,Drawing,Observation,Communication,Physics,Economics,80.49,6,6,36,Structured,Listening,Financial Analyst
+Commerce,Code,Helping,Exploring,Leadership,Communication,Mathematics,Chemistry,75.86,2,6,30,Team,Reading,Financial Analyst
+Commerce,Code,Programming,Helping,Empathy,Empathy,Mathematics,Physics,76.75,10,7,33,Outdoor,Visual,Financial Analyst
+Commerce,Code,Exploring,Drawing,Teamwork,Observation,Biology,Business Studies,84.22,7,7,38,Structured,Listening,Financial Analyst
+Commerce,Code,Drawing,Drawing,Empathy,Empathy,Physics,Business Studies,95.57,4,7,30,Solo,Hands-On,Financial Analyst
+Commerce,Code,Designing,Public Speaking,Empathy,Empathy,Chemistry,Biology,80.56,5,6,33,Structured,Listening,Financial Analyst
+Commerce,Code,Writing,Exploring,Empathy,Problem Solving,Business Studies,Physics,84.76,8,4,35,Structured,Hands-On,Financial Analyst
+Commerce,Code,Designing,Programming,Creativity,Teamwork,History,Physics,67.9,4,6,33,Team,Listening,Financial Analyst
+Commerce,Code,Programming,Designing,Python,Empathy,Computer Science,History,99.27,7,4,32,Structured,Hands-On,Financial Analyst
+Commerce,Code,Helping,Exploring,Communication,Problem Solving,Computer Science,Psychology,85.21,10,3,25,Solo,Reading,Financial Analyst
+Commerce,Code,Exploring,Exploring,Creativity,Creativity,Biology,Psychology,93.71,7,5,37,Team,Listening,Financial Analyst
+Commerce,Code,Designing,Writing,Teamwork,Python,Biology,History,48.64,7,7,39,Team,Listening,Financial Analyst
+Commerce,Code,Reading,Helping,Observation,Communication,Chemistry,Chemistry,64.86,7,5,36,Solo,Listening,Financial Analyst
+Commerce,Code,Writing,Reading,Problem Solving,Communication,Business Studies,Political Science,66.05,6,5,38,Structured,Visual,Financial Analyst
+Commerce,Code,Drawing,Writing,Communication,Communication,Biology,Biology,83.58,6,7,27,Solo,Listening,Financial Analyst
+Commerce,Code,Helping,Helping,Teamwork,Leadership,Biology,Chemistry,72.0,6,10,29,Team,Reading,Financial Analyst
+Commerce,Code,Programming,Helping,Python,Teamwork,History,History,89.64,8,7,43,Solo,Listening,Financial Analyst
+Commerce,Code,Public Speaking,Public Speaking,Teamwork,Teamwork,Business Studies,History,78.72,7,6,41,Solo,Visual,Financial Analyst
+Commerce,Code,Public Speaking,Helping,Empathy,Python,Biology,Biology,85.96,5,4,33,Solo,Hands-On,Financial Analyst
+Commerce,Code,Programming,Drawing,Python,Leadership,Economics,Chemistry,67.0,6,9,32,Solo,Visual,Financial Analyst
+Commerce,Code,Designing,Drawing,Communication,Leadership,Psychology,Psychology,74.57,7,8,23,Team,Listening,Financial Analyst
+Commerce,Code,Writing,Programming,Creativity,Leadership,Economics,Economics,68.93,7,9,32,Structured,Visual,Financial Analyst
+Commerce,Code,Designing,Reading,Leadership,Teamwork,Biology,Chemistry,56.23,8,5,29,Outdoor,Hands-On,Financial Analyst
+Commerce,Code,Designing,Public Speaking,Empathy,Python,Chemistry,Psychology,68.76,6,5,23,Solo,Listening,Financial Analyst
+Commerce,Code,Helping,Designing,Observation,Leadership,Political Science,Psychology,83.97,9,8,29,Outdoor,Reading,Financial Analyst
+Commerce,Code,Exploring,Exploring,Teamwork,Communication,Psychology,Mathematics,72.99,6,8,38,Outdoor,Reading,Financial Analyst
+Commerce,Code,Programming,Reading,Python,Teamwork,Chemistry,Mathematics,67.66,7,7,42,Structured,Listening,Financial Analyst
+Commerce,Code,Programming,Writing,Observation,Empathy,Physics,Mathematics,82.05,8,7,42,Outdoor,Hands-On,Financial Analyst
+Commerce,Code,Reading,Helping,Leadership,Observation,Physics,Chemistry,79.1,5,9,38,Outdoor,Hands-On,Financial Analyst
+Commerce,Code,Designing,Programming,Communication,Empathy,Economics,Economics,70.57,6,7,37,Structured,Listening,Financial Analyst
+Commerce,Code,Programming,Drawing,Teamwork,Communication,History,Political Science,76.97,7,10,40,Outdoor,Listening,Financial Analyst
+Commerce,Code,Designing,Programming,Leadership,Observation,Political Science,Political Science,76.91,8,4,36,Solo,Reading,Financial Analyst
+Arts,Debate,Writing,Writing,Creativity,Communication,Computer Science,Physics,93.09,6,5,31,Outdoor,Listening,Lawyer
+Arts,Debate,Drawing,Designing,Communication,Creativity,Computer Science,Economics,64.1,5,6,27,Solo,Hands-On,Lawyer
+Arts,Debate,Designing,Reading,Teamwork,Empathy,Economics,History,75.16,8,5,42,Outdoor,Reading,Lawyer
+Arts,Debate,Helping,Drawing,Creativity,Observation,Physics,Mathematics,80.11,9,5,39,Solo,Listening,Lawyer
+Arts,Debate,Programming,Exploring,Communication,Empathy,Economics,History,64.08,8,7,37,Outdoor,Hands-On,Lawyer
+Arts,Debate,Drawing,Reading,Communication,Empathy,Physics,History,63.24,5,8,30,Structured,Visual,Lawyer
+Arts,Debate,Programming,Helping,Python,Creativity,Economics,History,79.63,4,8,28,Solo,Visual,Lawyer
+Arts,Debate,Helping,Programming,Leadership,Empathy,Economics,Mathematics,80.52,8,5,37,Team,Hands-On,Lawyer
+Arts,Debate,Helping,Writing,Teamwork,Creativity,Computer Science,Biology,77.6,5,4,25,Team,Hands-On,Lawyer
+Arts,Debate,Reading,Programming,Creativity,Empathy,Political Science,Economics,78.5,3,7,33,Outdoor,Hands-On,Lawyer
+Arts,Debate,Drawing,Helping,Empathy,Communication,Chemistry,Computer Science,81.79,6,6,38,Outdoor,Listening,Lawyer
+Arts,Debate,Programming,Drawing,Python,Teamwork,Physics,Chemistry,78.35,7,7,27,Structured,Visual,Lawyer
+Arts,Debate,Reading,Designing,Problem Solving,Communication,Psychology,Psychology,82.57,8,4,33,Structured,Hands-On,Lawyer
+Arts,Debate,Helping,Writing,Empathy,Creativity,History,Psychology,74.61,6,7,42,Team,Visual,Lawyer
+Arts,Debate,Exploring,Reading,Teamwork,Leadership,History,History,85.82,4,8,41,Team,Reading,Lawyer
+Arts,Debate,Drawing,Helping,Observation,Problem Solving,Biology,Economics,78.87,9,10,40,Outdoor,Listening,Lawyer
+Arts,Debate,Exploring,Programming,Creativity,Teamwork,Chemistry,Economics,77.49,9,7,35,Structured,Listening,Lawyer
+Arts,Debate,Drawing,Helping,Observation,Communication,Political Science,Chemistry,71.49,10,5,42,Structured,Visual,Lawyer
+Arts,Debate,Writing,Reading,Leadership,Teamwork,Business Studies,Psychology,80.0,4,7,24,Structured,Reading,Lawyer
+Arts,Debate,Public Speaking,Drawing,Teamwork,Problem Solving,Chemistry,Economics,81.26,8,5,35,Team,Listening,Lawyer
+Arts,Debate,Designing,Writing,Empathy,Communication,Chemistry,Psychology,94.54,5,4,42,Structured,Visual,Lawyer
+Arts,Debate,Exploring,Writing,Creativity,Teamwork,Biology,Computer Science,94.63,7,9,41,Structured,Visual,Lawyer
+Arts,Debate,Reading,Designing,Observation,Teamwork,Physics,Chemistry,67.58,6,9,43,Team,Reading,Lawyer
+Arts,Debate,Programming,Drawing,Communication,Teamwork,Political Science,Computer Science,80.63,5,10,32,Structured,Listening,Lawyer
+Arts,Debate,Public Speaking,Public Speaking,Observation,Leadership,Psychology,Computer Science,71.65,7,10,39,Structured,Hands-On,Lawyer
+Arts,Debate,Reading,Programming,Problem Solving,Communication,Computer Science,Physics,79.15,7,7,37,Outdoor,Visual,Lawyer
+Arts,Debate,Programming,Writing,Creativity,Leadership,Physics,Mathematics,49.7,6,7,29,Structured,Listening,Lawyer
+Arts,Debate,Writing,Designing,Problem Solving,Problem Solving,Business Studies,Political Science,78.86,6,10,42,Team,Reading,Lawyer
+Arts,Debate,Exploring,Drawing,Empathy,Problem Solving,Economics,Business Studies,70.34,6,6,32,Team,Hands-On,Lawyer
+Arts,Debate,Drawing,Drawing,Python,Creativity,Physics,Biology,76.95,5,4,38,Structured,Listening,Lawyer
+Arts,Debate,Drawing,Reading,Communication,Problem Solving,History,Psychology,81.3,5,8,31,Structured,Reading,Lawyer
+Arts,Debate,Exploring,Designing,Teamwork,Problem Solving,Economics,Mathematics,77.53,8,6,37,Team,Listening,Lawyer
+Arts,Debate,Programming,Exploring,Empathy,Leadership,Business Studies,Political Science,69.84,6,6,31,Outdoor,Visual,Lawyer
+Arts,Debate,Programming,Exploring,Observation,Creativity,Psychology,History,73.23,3,6,33,Solo,Reading,Lawyer
+Arts,Debate,Helping,Exploring,Creativity,Creativity,Mathematics,History,72.44,6,6,37,Solo,Hands-On,Lawyer
+Arts,Debate,Programming,Writing,Python,Teamwork,History,Political Science,83.75,5,4,29,Structured,Hands-On,Lawyer
+Arts,Debate,Designing,Writing,Leadership,Leadership,Biology,Physics,70.13,6,5,28,Outdoor,Hands-On,Lawyer
+Arts,Debate,Programming,Exploring,Communication,Python,Computer Science,Psychology,70.44,7,8,32,Solo,Hands-On,Lawyer
+Arts,Debate,Exploring,Reading,Communication,Creativity,Computer Science,Computer Science,70.87,5,6,30,Team,Hands-On,Lawyer
+Arts,Debate,Helping,Helping,Python,Creativity,Psychology,Biology,80.73,3,6,36,Team,Listening,Lawyer
+Arts,Debate,Writing,Drawing,Leadership,Empathy,History,Biology,76.84,10,7,29,Solo,Hands-On,Lawyer
+Arts,Debate,Reading,Drawing,Communication,Teamwork,Business Studies,Business Studies,74.05,3,6,30,Team,Listening,Lawyer
+Arts,Debate,Drawing,Public Speaking,Observation,Python,Computer Science,Chemistry,84.15,5,6,31,Solo,Reading,Lawyer
+Arts,Debate,Exploring,Designing,Teamwork,Leadership,History,Political Science,92.39,6,10,39,Team,Listening,Lawyer
+Arts,Debate,Designing,Exploring,Leadership,Communication,Political Science,Business Studies,79.82,7,7,25,Solo,Hands-On,Lawyer
+Arts,Debate,Exploring,Designing,Observation,Python,Chemistry,Political Science,72.21,8,6,27,Outdoor,Listening,Lawyer
+Arts,Debate,Helping,Writing,Leadership,Leadership,Chemistry,Computer Science,74.48,10,9,34,Structured,Listening,Lawyer
+Arts,Debate,Public Speaking,Public Speaking,Observation,Communication,Economics,Political Science,84.51,6,3,30,Solo,Visual,Lawyer
+Arts,Debate,Reading,Programming,Problem Solving,Creativity,Political Science,Chemistry,90.63,6,6,33,Structured,Hands-On,Lawyer
+Arts,Debate,Public Speaking,Helping,Leadership,Empathy,Physics,Physics,94.04,10,10,34,Solo,Visual,Lawyer
+Arts,Debate,Public Speaking,Reading,Creativity,Creativity,Psychology,Biology,77.96,3,9,29,Structured,Reading,Lawyer
+Arts,Debate,Reading,Drawing,Leadership,Leadership,History,Chemistry,77.17,4,5,30,Structured,Hands-On,Lawyer
+Arts,Debate,Designing,Writing,Leadership,Communication,Chemistry,Computer Science,68.92,5,5,39,Solo,Listening,Lawyer
+Arts,Debate,Designing,Writing,Python,Leadership,Computer Science,Biology,63.95,7,9,32,Structured,Visual,Lawyer
+Arts,Debate,Exploring,Public Speaking,Problem Solving,Communication,History,Chemistry,67.82,6,9,35,Team,Listening,Lawyer
+Arts,Media,Public Speaking,Reading,Teamwork,Leadership,Chemistry,Physics,69.69,7,4,38,Solo,Visual,Mass Communicator
+Arts,Media,Helping,Exploring,Python,Teamwork,Biology,Physics,79.09,6,5,30,Solo,Listening,Mass Communicator
+Arts,Media,Helping,Drawing,Observation,Problem Solving,Psychology,Physics,80.35,9,5,37,Structured,Listening,Mass Communicator
+Arts,Media,Designing,Designing,Creativity,Empathy,Physics,Business Studies,54.13,5,6,30,Structured,Visual,Mass Communicator
+Arts,Media,Writing,Writing,Leadership,Problem Solving,Physics,Chemistry,65.63,5,7,34,Outdoor,Hands-On,Mass Communicator
+Arts,Media,Reading,Exploring,Leadership,Empathy,Biology,Political Science,52.62,2,5,37,Solo,Listening,Mass Communicator
+Arts,Media,Public Speaking,Helping,Problem Solving,Creativity,Economics,History,47.52,6,5,41,Solo,Listening,Mass Communicator
+Arts,Media,Public Speaking,Drawing,Python,Empathy,Physics,Psychology,71.15,7,7,24,Team,Listening,Mass Communicator
+Arts,Media,Designing,Reading,Leadership,Teamwork,Political Science,History,82.68,7,8,50,Solo,Visual,Mass Communicator
+Arts,Media,Writing,Programming,Observation,Python,Business Studies,Chemistry,54.16,10,6,36,Team,Listening,Mass Communicator
+Arts,Media,Drawing,Public Speaking,Creativity,Python,Biology,History,74.54,6,5,36,Solo,Listening,Mass Communicator
+Arts,Media,Programming,Public Speaking,Communication,Python,Biology,Physics,59.83,8,6,29,Outdoor,Visual,Mass Communicator
+Arts,Media,Exploring,Drawing,Creativity,Creativity,Chemistry,History,70.5,9,5,36,Team,Visual,Mass Communicator
+Arts,Media,Public Speaking,Designing,Observation,Problem Solving,Economics,Chemistry,67.69,8,8,44,Team,Hands-On,Mass Communicator
+Arts,Media,Public Speaking,Programming,Communication,Observation,Chemistry,Chemistry,73.24,8,7,41,Outdoor,Reading,Mass Communicator
+Arts,Media,Designing,Drawing,Observation,Communication,History,Mathematics,67.81,8,6,34,Solo,Reading,Mass Communicator
+Arts,Media,Reading,Designing,Communication,Python,History,Chemistry,75.92,7,6,36,Solo,Visual,Mass Communicator
+Arts,Media,Drawing,Reading,Leadership,Problem Solving,History,Biology,90.78,8,8,32,Team,Reading,Mass Communicator
+Arts,Media,Helping,Exploring,Problem Solving,Empathy,Biology,Psychology,66.11,8,8,42,Solo,Reading,Mass Communicator
+Arts,Media,Exploring,Reading,Leadership,Observation,Business Studies,Physics,68.96,6,3,33,Team,Reading,Mass Communicator
+Arts,Media,Reading,Reading,Observation,Empathy,History,Mathematics,84.97,6,8,34,Outdoor,Visual,Mass Communicator
+Arts,Media,Public Speaking,Reading,Communication,Teamwork,History,Biology,78.24,4,7,20,Team,Visual,Mass Communicator
+Arts,Media,Programming,Writing,Leadership,Empathy,Business Studies,Computer Science,73.13,3,9,38,Outdoor,Listening,Mass Communicator
+Arts,Media,Programming,Reading,Python,Communication,Biology,Physics,79.67,10,5,43,Structured,Visual,Mass Communicator
+Arts,Media,Reading,Public Speaking,Teamwork,Observation,Business Studies,Mathematics,84.32,6,9,29,Outdoor,Reading,Mass Communicator
+Arts,Media,Reading,Writing,Empathy,Creativity,Mathematics,Business Studies,66.75,5,5,29,Team,Listening,Mass Communicator
+Arts,Media,Public Speaking,Reading,Teamwork,Teamwork,Physics,Business Studies,87.23,6,7,32,Team,Reading,Mass Communicator
+Arts,Media,Exploring,Drawing,Problem Solving,Observation,Biology,History,56.79,7,3,34,Team,Hands-On,Mass Communicator
+Arts,Media,Helping,Public Speaking,Observation,Communication,Physics,Psychology,61.32,10,8,35,Solo,Hands-On,Mass Communicator
+Arts,Media,Drawing,Reading,Teamwork,Teamwork,Business Studies,Biology,87.64,5,8,35,Outdoor,Reading,Mass Communicator
+Arts,Media,Helping,Drawing,Communication,Empathy,Chemistry,Business Studies,77.64,9,8,36,Structured,Reading,Mass Communicator
+Arts,Media,Exploring,Exploring,Leadership,Python,Business Studies,Mathematics,58.45,5,6,35,Team,Hands-On,Mass Communicator
+Arts,Media,Designing,Public Speaking,Communication,Python,Business Studies,Physics,63.7,10,10,38,Solo,Listening,Mass Communicator
+Arts,Media,Programming,Designing,Problem Solving,Teamwork,Chemistry,History,75.72,6,5,35,Structured,Reading,Mass Communicator
+Arts,Media,Reading,Programming,Problem Solving,Empathy,Biology,Economics,77.58,4,7,34,Outdoor,Reading,Mass Communicator
+Arts,Media,Reading,Programming,Teamwork,Leadership,Biology,History,55.92,5,6,44,Solo,Listening,Mass Communicator
+Arts,Media,Exploring,Drawing,Problem Solving,Communication,Economics,History,80.57,4,7,27,Solo,Visual,Mass Communicator
+Arts,Media,Designing,Writing,Python,Leadership,Business Studies,Computer Science,85.83,6,6,41,Team,Visual,Mass Communicator
+Arts,Media,Writing,Programming,Observation,Python,Chemistry,Business Studies,62.13,4,5,40,Outdoor,Listening,Mass Communicator
+Arts,Media,Programming,Writing,Observation,Communication,Political Science,Chemistry,59.81,1,6,37,Team,Reading,Mass Communicator
+Arts,Media,Writing,Public Speaking,Creativity,Teamwork,Psychology,Mathematics,87.0,6,6,40,Team,Hands-On,Mass Communicator
+Arts,Media,Writing,Helping,Problem Solving,Leadership,Physics,Chemistry,56.3,6,7,37,Outdoor,Hands-On,Mass Communicator
+Arts,Media,Exploring,Exploring,Creativity,Teamwork,Political Science,Political Science,69.9,7,2,31,Outdoor,Listening,Mass Communicator
+Arts,Media,Writing,Reading,Empathy,Teamwork,Chemistry,Chemistry,79.54,5,7,37,Structured,Reading,Mass Communicator
+Arts,Media,Helping,Reading,Creativity,Communication,Computer Science,Chemistry,71.57,7,5,33,Team,Listening,Mass Communicator
+Arts,Media,Drawing,Public Speaking,Python,Leadership,Business Studies,Political Science,81.1,7,5,36,Team,Listening,Mass Communicator
+Arts,Media,Writing,Designing,Teamwork,Python,Computer Science,Mathematics,82.15,2,9,33,Solo,Visual,Mass Communicator
+Arts,Media,Public Speaking,Writing,Problem Solving,Observation,Economics,History,79.25,9,4,31,Structured,Listening,Mass Communicator
+Arts,Media,Helping,Drawing,Leadership,Communication,Computer Science,Mathematics,72.11,5,10,30,Structured,Hands-On,Mass Communicator
+Arts,Media,Helping,Programming,Communication,Observation,Computer Science,History,69.44,7,4,33,Team,Reading,Mass Communicator
+Arts,Media,Helping,Drawing,Communication,Communication,Biology,Mathematics,78.17,6,6,32,Solo,Visual,Mass Communicator
+Arts,Media,Writing,Drawing,Teamwork,Leadership,Economics,Biology,59.86,7,10,35,Team,Visual,Mass Communicator
+Arts,Media,Writing,Writing,Communication,Observation,History,Political Science,77.25,8,4,43,Team,Hands-On,Mass Communicator
+Arts,Media,Reading,Programming,Problem Solving,Teamwork,Biology,History,77.02,10,5,44,Outdoor,Reading,Mass Communicator
+Arts,Media,Programming,Writing,Leadership,Teamwork,Computer Science,Psychology,82.75,8,7,33,Team,Listening,Mass Communicator
+Arts,Design,Writing,Reading,Teamwork,Python,Biology,Political Science,87.01,7,3,29,Solo,Hands-On,Interior Designer
+Arts,Design,Programming,Designing,Empathy,Teamwork,Economics,Chemistry,73.14,7,6,41,Outdoor,Visual,Interior Designer
+Arts,Design,Public Speaking,Public Speaking,Leadership,Empathy,Physics,Chemistry,55.49,7,3,38,Structured,Visual,Interior Designer
+Arts,Design,Designing,Public Speaking,Teamwork,Observation,Psychology,Psychology,74.06,7,5,41,Solo,Hands-On,Interior Designer
+Arts,Design,Designing,Drawing,Problem Solving,Observation,Business Studies,Economics,85.42,8,6,37,Solo,Hands-On,Interior Designer
+Arts,Design,Writing,Writing,Leadership,Teamwork,Political Science,Chemistry,67.93,8,10,40,Team,Listening,Interior Designer
+Arts,Design,Designing,Exploring,Leadership,Communication,Business Studies,Business Studies,67.7,7,4,37,Team,Visual,Interior Designer
+Arts,Design,Drawing,Public Speaking,Leadership,Teamwork,Political Science,Economics,79.51,3,4,33,Solo,Listening,Interior Designer
+Arts,Design,Reading,Programming,Problem Solving,Leadership,Business Studies,Biology,71.99,4,7,36,Structured,Reading,Interior Designer
+Arts,Design,Public Speaking,Drawing,Problem Solving,Leadership,Political Science,History,73.06,5,9,43,Solo,Hands-On,Interior Designer
+Arts,Design,Helping,Exploring,Teamwork,Empathy,Physics,Physics,70.16,5,7,33,Team,Hands-On,Interior Designer
+Arts,Design,Helping,Exploring,Creativity,Leadership,Business Studies,Biology,73.61,8,3,41,Structured,Reading,Interior Designer
+Arts,Design,Programming,Reading,Leadership,Teamwork,Chemistry,Psychology,75.73,6,6,34,Outdoor,Listening,Interior Designer
+Arts,Design,Designing,Helping,Teamwork,Creativity,Economics,Political Science,57.69,9,7,37,Solo,Hands-On,Interior Designer
+Arts,Design,Drawing,Programming,Communication,Observation,History,Biology,84.52,4,7,33,Outdoor,Reading,Interior Designer
+Arts,Design,Programming,Helping,Observation,Problem Solving,Economics,Physics,83.47,2,6,31,Outdoor,Hands-On,Interior Designer
+Arts,Design,Reading,Public Speaking,Communication,Creativity,Psychology,Biology,79.32,7,5,31,Outdoor,Hands-On,Interior Designer
+Arts,Design,Helping,Helping,Observation,Creativity,Political Science,Psychology,73.89,5,8,33,Outdoor,Reading,Interior Designer
+Arts,Design,Programming,Drawing,Leadership,Observation,History,Business Studies,45.93,6,4,26,Outdoor,Reading,Interior Designer
+Arts,Design,Reading,Public Speaking,Communication,Empathy,Mathematics,Political Science,62.63,7,9,36,Solo,Listening,Interior Designer
+Arts,Design,Exploring,Reading,Creativity,Communication,Physics,History,68.93,7,6,31,Outdoor,Hands-On,Interior Designer
+Arts,Design,Writing,Drawing,Teamwork,Observation,Biology,Computer Science,63.46,3,6,35,Solo,Visual,Interior Designer
+Arts,Design,Public Speaking,Drawing,Communication,Empathy,Computer Science,Biology,74.03,6,5,38,Team,Reading,Interior Designer
+Arts,Design,Reading,Designing,Creativity,Creativity,Physics,History,61.83,8,4,31,Structured,Visual,Interior Designer
+Arts,Design,Public Speaking,Reading,Python,Python,History,Chemistry,60.33,5,8,37,Outdoor,Visual,Interior Designer
+Arts,Design,Reading,Helping,Python,Creativity,Chemistry,Psychology,84.78,8,4,33,Team,Reading,Interior Designer
+Arts,Design,Drawing,Writing,Python,Creativity,Biology,Computer Science,67.2,9,4,39,Outdoor,Hands-On,Interior Designer
+Arts,Design,Drawing,Public Speaking,Creativity,Creativity,Psychology,Physics,83.93,10,6,38,Team,Reading,Interior Designer
+Arts,Design,Helping,Drawing,Python,Creativity,Mathematics,Political Science,97.82,5,3,25,Structured,Hands-On,Interior Designer
+Arts,Design,Drawing,Exploring,Creativity,Communication,Economics,Business Studies,82.13,3,6,37,Structured,Reading,Interior Designer
+Arts,Design,Public Speaking,Designing,Creativity,Observation,Chemistry,History,76.85,7,7,41,Solo,Reading,Interior Designer
+Arts,Design,Exploring,Writing,Leadership,Python,Chemistry,Economics,65.48,5,5,39,Structured,Visual,Interior Designer
+Arts,Design,Designing,Helping,Teamwork,Leadership,History,Mathematics,84.0,7,9,29,Structured,Hands-On,Interior Designer
+Arts,Design,Designing,Public Speaking,Creativity,Teamwork,Economics,Biology,91.67,10,8,43,Solo,Listening,Interior Designer
+Arts,Design,Reading,Designing,Teamwork,Creativity,Chemistry,Biology,58.43,5,5,38,Structured,Listening,Interior Designer
+Arts,Design,Reading,Drawing,Creativity,Observation,Mathematics,Economics,64.5,8,9,38,Team,Listening,Interior Designer
+Arts,Design,Reading,Public Speaking,Problem Solving,Teamwork,Computer Science,Psychology,77.84,5,5,41,Outdoor,Listening,Interior Designer
+Arts,Design,Writing,Exploring,Problem Solving,Teamwork,Political Science,Computer Science,82.79,6,6,24,Team,Listening,Interior Designer
+Arts,Design,Reading,Reading,Leadership,Teamwork,History,Mathematics,64.29,10,4,35,Team,Visual,Interior Designer
+Arts,Design,Reading,Programming,Creativity,Teamwork,Physics,Biology,85.07,4,7,39,Structured,Hands-On,Interior Designer
+Arts,Design,Drawing,Helping,Creativity,Creativity,Political Science,History,75.12,10,3,40,Structured,Reading,Interior Designer
+Arts,Design,Helping,Exploring,Teamwork,Leadership,Political Science,Economics,73.27,8,7,31,Solo,Visual,Interior Designer
+Arts,Design,Designing,Reading,Problem Solving,Teamwork,Economics,Business Studies,77.29,3,8,36,Structured,Listening,Interior Designer
+Arts,Design,Programming,Programming,Communication,Leadership,Biology,History,81.39,9,7,35,Structured,Reading,Interior Designer
+Arts,Design,Helping,Designing,Teamwork,Creativity,Psychology,History,66.19,5,9,42,Structured,Listening,Interior Designer
+Arts,Design,Drawing,Programming,Problem Solving,Leadership,History,Psychology,72.62,7,5,40,Structured,Hands-On,Interior Designer
+Arts,Design,Helping,Writing,Python,Python,Psychology,Physics,81.65,10,5,33,Team,Hands-On,Interior Designer
+Arts,Design,Writing,Programming,Observation,Problem Solving,Chemistry,Business Studies,77.31,8,6,30,Outdoor,Hands-On,Interior Designer
+Arts,Design,Designing,Writing,Python,Empathy,Mathematics,Mathematics,83.81,8,5,41,Outdoor,Visual,Interior Designer
+Arts,Design,Reading,Helping,Creativity,Observation,Biology,Physics,86.7,7,7,37,Outdoor,Visual,Interior Designer
+Arts,Design,Exploring,Designing,Problem Solving,Leadership,Physics,History,66.38,7,2,39,Solo,Hands-On,Interior Designer
+Arts,Design,Designing,Designing,Observation,Creativity,History,Chemistry,59.39,10,6,33,Team,Hands-On,Interior Designer
+Arts,Design,Exploring,Writing,Communication,Leadership,Economics,Business Studies,68.72,6,9,22,Team,Listening,Interior Designer
+Arts,Design,Reading,Public Speaking,Leadership,Leadership,Physics,Computer Science,87.77,7,4,29,Structured,Reading,Interior Designer
+Arts,Design,Reading,Reading,Observation,Leadership,Chemistry,Psychology,91.76,5,4,40,Structured,Listening,Interior Designer
+Arts,Care,Public Speaking,Writing,Creativity,Leadership,Political Science,Computer Science,78.39,5,7,29,Structured,Hands-On,Psychologist
+Arts,Care,Public Speaking,Designing,Problem Solving,Leadership,Psychology,Political Science,86.01,9,8,36,Structured,Reading,Psychologist
+Arts,Care,Programming,Drawing,Teamwork,Empathy,History,Computer Science,92.61,6,4,37,Structured,Visual,Psychologist
+Arts,Care,Public Speaking,Writing,Teamwork,Communication,Mathematics,Biology,95.86,4,6,37,Outdoor,Listening,Psychologist
+Arts,Care,Designing,Writing,Creativity,Empathy,Business Studies,Computer Science,74.46,5,9,46,Outdoor,Reading,Psychologist
+Arts,Care,Helping,Public Speaking,Problem Solving,Empathy,Chemistry,Biology,76.96,5,3,36,Team,Visual,Psychologist
+Arts,Care,Public Speaking,Helping,Teamwork,Teamwork,Political Science,Business Studies,86.04,7,6,32,Structured,Visual,Psychologist
+Arts,Care,Public Speaking,Drawing,Leadership,Communication,Physics,Computer Science,64.08,8,8,27,Outdoor,Reading,Psychologist
+Arts,Care,Programming,Exploring,Python,Python,Chemistry,Economics,90.9,8,9,28,Outdoor,Visual,Psychologist
+Arts,Care,Designing,Writing,Creativity,Problem Solving,Biology,Mathematics,61.34,6,8,43,Solo,Visual,Psychologist
+Arts,Care,Helping,Exploring,Creativity,Empathy,Psychology,Chemistry,82.06,6,4,41,Outdoor,Hands-On,Psychologist
+Arts,Care,Designing,Public Speaking,Problem Solving,Empathy,Biology,Chemistry,65.35,10,6,42,Team,Reading,Psychologist
+Arts,Care,Helping,Exploring,Problem Solving,Leadership,Psychology,Physics,81.79,6,5,33,Structured,Hands-On,Psychologist
+Arts,Care,Reading,Writing,Problem Solving,Teamwork,Mathematics,Computer Science,79.28,7,5,34,Team,Hands-On,Psychologist
+Arts,Care,Exploring,Writing,Leadership,Python,Psychology,Physics,75.79,2,7,30,Solo,Reading,Psychologist
+Arts,Care,Helping,Designing,Leadership,Observation,Chemistry,Political Science,63.47,3,3,28,Team,Listening,Psychologist
+Arts,Care,Designing,Programming,Problem Solving,Leadership,Computer Science,Chemistry,67.91,10,5,35,Team,Hands-On,Psychologist
+Arts,Care,Public Speaking,Drawing,Teamwork,Observation,Business Studies,Physics,79.0,7,6,29,Outdoor,Visual,Psychologist
+Arts,Care,Exploring,Exploring,Problem Solving,Observation,Business Studies,Chemistry,89.51,10,3,29,Team,Hands-On,Psychologist
+Arts,Care,Reading,Writing,Problem Solving,Observation,History,Physics,72.2,5,8,31,Solo,Reading,Psychologist
+Arts,Care,Exploring,Drawing,Python,Problem Solving,Mathematics,Computer Science,96.65,9,7,40,Outdoor,Visual,Psychologist
+Arts,Care,Reading,Drawing,Empathy,Communication,Psychology,Business Studies,86.06,5,5,35,Outdoor,Listening,Psychologist
+Arts,Care,Exploring,Drawing,Leadership,Communication,Psychology,Economics,83.62,7,3,30,Outdoor,Reading,Psychologist
+Arts,Care,Reading,Designing,Observation,Communication,Business Studies,Business Studies,74.26,6,10,28,Team,Visual,Psychologist
+Arts,Care,Programming,Public Speaking,Creativity,Teamwork,Mathematics,Computer Science,80.06,9,10,32,Team,Visual,Psychologist
+Arts,Care,Designing,Designing,Leadership,Communication,Chemistry,Economics,79.91,8,7,34,Team,Visual,Psychologist
+Arts,Care,Programming,Designing,Teamwork,Teamwork,Chemistry,Mathematics,79.36,1,8,35,Team,Reading,Psychologist
+Arts,Care,Helping,Helping,Teamwork,Problem Solving,Biology,Business Studies,72.78,10,5,32,Team,Reading,Psychologist
+Arts,Care,Helping,Public Speaking,Problem Solving,Communication,Business Studies,Biology,94.92,5,5,34,Solo,Hands-On,Psychologist
+Arts,Care,Helping,Public Speaking,Teamwork,Empathy,Economics,Psychology,83.41,7,4,32,Structured,Visual,Psychologist
+Arts,Care,Programming,Exploring,Communication,Observation,Business Studies,Mathematics,68.93,6,7,37,Structured,Listening,Psychologist
+Arts,Care,Helping,Reading,Creativity,Python,Physics,Economics,57.24,9,7,41,Team,Listening,Psychologist
+Arts,Care,Writing,Programming,Python,Leadership,Political Science,Psychology,79.44,9,7,41,Structured,Hands-On,Psychologist
+Arts,Care,Designing,Writing,Communication,Python,Psychology,Biology,80.22,6,10,39,Outdoor,Reading,Psychologist
+Arts,Care,Exploring,Writing,Teamwork,Communication,Chemistry,Economics,80.74,4,4,36,Structured,Reading,Psychologist
+Arts,Care,Helping,Reading,Observation,Python,Biology,History,76.46,5,7,42,Outdoor,Hands-On,Psychologist
+Arts,Care,Designing,Helping,Leadership,Leadership,Political Science,Economics,81.95,4,6,30,Structured,Reading,Psychologist
+Arts,Care,Writing,Exploring,Communication,Teamwork,Physics,Mathematics,71.12,6,6,28,Team,Visual,Psychologist
+Arts,Care,Public Speaking,Drawing,Python,Teamwork,Computer Science,Biology,73.72,5,1,45,Structured,Listening,Psychologist
+Arts,Care,Reading,Exploring,Python,Teamwork,Economics,Political Science,85.89,6,7,29,Structured,Listening,Psychologist
+Arts,Care,Exploring,Reading,Communication,Creativity,Economics,Chemistry,91.96,10,7,40,Team,Hands-On,Psychologist
+Arts,Care,Drawing,Drawing,Leadership,Empathy,Psychology,Physics,76.75,4,6,35,Team,Listening,Psychologist
+Arts,Care,Reading,Public Speaking,Teamwork,Creativity,Economics,Physics,70.45,6,6,34,Outdoor,Visual,Psychologist
+Arts,Care,Designing,Writing,Creativity,Observation,Biology,Physics,75.52,4,5,28,Solo,Listening,Psychologist
+Arts,Care,Exploring,Exploring,Leadership,Python,Economics,Physics,84.78,2,9,41,Structured,Hands-On,Psychologist
+Arts,Care,Drawing,Public Speaking,Python,Leadership,Economics,Physics,71.98,1,6,34,Solo,Listening,Psychologist
+Arts,Care,Reading,Designing,Leadership,Communication,Mathematics,Business Studies,64.89,5,10,38,Solo,Visual,Psychologist
+Arts,Care,Public Speaking,Drawing,Problem Solving,Problem Solving,Computer Science,Biology,65.75,3,6,33,Solo,Hands-On,Psychologist
+Arts,Care,Exploring,Designing,Leadership,Communication,Economics,Chemistry,79.96,5,8,44,Outdoor,Reading,Psychologist
+Arts,Care,Exploring,Exploring,Problem Solving,Teamwork,Computer Science,Psychology,83.16,6,6,33,Structured,Visual,Psychologist
+Arts,Care,Designing,Writing,Communication,Problem Solving,Business Studies,Chemistry,86.81,5,7,35,Solo,Hands-On,Psychologist
+Arts,Care,Exploring,Public Speaking,Communication,Teamwork,Political Science,Political Science,69.98,4,7,34,Solo,Hands-On,Psychologist
+Arts,Care,Exploring,Designing,Creativity,Teamwork,Computer Science,Biology,80.0,5,9,30,Team,Hands-On,Psychologist
+Arts,Care,Public Speaking,Designing,Leadership,Python,Political Science,Chemistry,92.12,3,7,37,Solo,Visual,Psychologist
+Arts,Care,Designing,Designing,Creativity,Teamwork,Psychology,Computer Science,67.04,7,9,23,Outdoor,Hands-On,Psychologist
+Arts,Outdoor,Reading,Programming,Creativity,Teamwork,Biology,Biology,80.03,2,5,43,Structured,Visual,Tourism Guide
+Arts,Outdoor,Reading,Designing,Leadership,Observation,Psychology,History,69.18,4,6,45,Structured,Hands-On,Tourism Guide
+Arts,Outdoor,Writing,Drawing,Empathy,Communication,Chemistry,Psychology,56.68,4,9,44,Outdoor,Visual,Tourism Guide
+Arts,Outdoor,Designing,Programming,Python,Problem Solving,Chemistry,Physics,73.97,4,10,42,Team,Listening,Tourism Guide
+Arts,Outdoor,Exploring,Designing,Teamwork,Leadership,Psychology,Psychology,81.79,5,6,34,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Helping,Reading,Communication,Communication,Physics,Mathematics,78.31,9,8,29,Solo,Visual,Tourism Guide
+Arts,Outdoor,Public Speaking,Programming,Empathy,Teamwork,Biology,Mathematics,88.76,7,8,42,Structured,Reading,Tourism Guide
+Arts,Outdoor,Reading,Helping,Teamwork,Communication,History,Business Studies,63.88,6,5,27,Solo,Visual,Tourism Guide
+Arts,Outdoor,Drawing,Drawing,Teamwork,Teamwork,History,Physics,78.47,10,3,34,Structured,Reading,Tourism Guide
+Arts,Outdoor,Public Speaking,Helping,Problem Solving,Python,Economics,Physics,81.41,7,6,28,Solo,Listening,Tourism Guide
+Arts,Outdoor,Designing,Exploring,Leadership,Python,History,Business Studies,77.33,5,2,40,Structured,Listening,Tourism Guide
+Arts,Outdoor,Public Speaking,Programming,Python,Problem Solving,Psychology,Economics,84.58,7,7,40,Solo,Hands-On,Tourism Guide
+Arts,Outdoor,Designing,Exploring,Creativity,Teamwork,Psychology,Economics,77.24,8,6,41,Structured,Listening,Tourism Guide
+Arts,Outdoor,Programming,Drawing,Leadership,Empathy,History,Economics,78.21,7,4,36,Structured,Reading,Tourism Guide
+Arts,Outdoor,Public Speaking,Writing,Teamwork,Communication,Computer Science,Business Studies,66.68,5,5,29,Structured,Hands-On,Tourism Guide
+Arts,Outdoor,Exploring,Drawing,Empathy,Leadership,Chemistry,History,96.25,9,10,28,Team,Reading,Tourism Guide
+Arts,Outdoor,Public Speaking,Drawing,Teamwork,Creativity,Business Studies,History,75.71,4,5,30,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Public Speaking,Programming,Python,Observation,Computer Science,Economics,87.4,6,9,38,Team,Reading,Tourism Guide
+Arts,Outdoor,Programming,Reading,Observation,Problem Solving,Chemistry,Psychology,98.04,4,9,40,Team,Visual,Tourism Guide
+Arts,Outdoor,Public Speaking,Exploring,Leadership,Observation,Economics,Physics,65.27,9,7,33,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Reading,Programming,Teamwork,Teamwork,Chemistry,Chemistry,66.76,5,10,35,Solo,Visual,Tourism Guide
+Arts,Outdoor,Reading,Drawing,Creativity,Empathy,Economics,Biology,82.82,5,5,40,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Exploring,Reading,Communication,Observation,Economics,Biology,61.5,6,7,35,Solo,Reading,Tourism Guide
+Arts,Outdoor,Exploring,Designing,Python,Empathy,History,Economics,73.21,7,8,38,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Reading,Helping,Observation,Problem Solving,Economics,Mathematics,65.14,6,9,39,Team,Listening,Tourism Guide
+Arts,Outdoor,Public Speaking,Drawing,Problem Solving,Problem Solving,Business Studies,History,61.27,7,3,35,Outdoor,Visual,Tourism Guide
+Arts,Outdoor,Exploring,Drawing,Python,Creativity,Chemistry,Economics,93.98,5,5,38,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Drawing,Designing,Python,Problem Solving,Physics,Biology,59.57,5,8,31,Solo,Hands-On,Tourism Guide
+Arts,Outdoor,Designing,Designing,Leadership,Observation,Economics,Physics,72.64,8,7,36,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Designing,Exploring,Empathy,Teamwork,Economics,Business Studies,71.61,7,6,37,Team,Hands-On,Tourism Guide
+Arts,Outdoor,Reading,Programming,Observation,Problem Solving,Biology,Political Science,70.03,6,5,34,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Reading,Helping,Observation,Communication,Physics,Physics,66.89,4,7,36,Outdoor,Reading,Tourism Guide
+Arts,Outdoor,Helping,Designing,Creativity,Python,Economics,Computer Science,82.83,6,7,37,Outdoor,Visual,Tourism Guide
+Arts,Outdoor,Programming,Reading,Teamwork,Leadership,Psychology,Physics,79.45,5,7,36,Structured,Hands-On,Tourism Guide
+Arts,Outdoor,Public Speaking,Public Speaking,Observation,Leadership,Computer Science,Psychology,75.07,2,7,46,Team,Listening,Tourism Guide
+Arts,Outdoor,Public Speaking,Reading,Observation,Empathy,Economics,History,71.4,5,7,36,Solo,Reading,Tourism Guide
+Arts,Outdoor,Designing,Designing,Creativity,Creativity,Physics,Business Studies,86.93,4,8,37,Team,Listening,Tourism Guide
+Arts,Outdoor,Public Speaking,Exploring,Creativity,Observation,Political Science,Business Studies,73.58,7,9,39,Structured,Hands-On,Tourism Guide
+Arts,Outdoor,Exploring,Designing,Teamwork,Teamwork,Business Studies,Biology,63.57,8,6,35,Team,Reading,Tourism Guide
+Arts,Outdoor,Exploring,Exploring,Communication,Creativity,Mathematics,History,75.73,6,9,34,Structured,Visual,Tourism Guide
+Arts,Outdoor,Drawing,Writing,Creativity,Problem Solving,Chemistry,Chemistry,63.8,6,7,41,Outdoor,Hands-On,Tourism Guide
+Arts,Outdoor,Programming,Drawing,Creativity,Observation,Computer Science,Economics,81.03,5,10,36,Outdoor,Hands-On,Tourism Guide
+Arts,Outdoor,Exploring,Programming,Communication,Communication,Psychology,Business Studies,87.75,6,8,39,Solo,Hands-On,Tourism Guide
+Arts,Outdoor,Helping,Public Speaking,Communication,Teamwork,Physics,Chemistry,87.18,9,8,33,Outdoor,Visual,Tourism Guide
+Arts,Outdoor,Programming,Designing,Teamwork,Leadership,Psychology,History,69.28,7,8,33,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Exploring,Drawing,Communication,Teamwork,History,History,85.65,9,5,30,Team,Hands-On,Tourism Guide
+Arts,Outdoor,Reading,Designing,Problem Solving,Empathy,Business Studies,Economics,73.6,7,5,41,Solo,Listening,Tourism Guide
+Arts,Outdoor,Helping,Reading,Communication,Python,Psychology,Computer Science,79.24,7,4,28,Solo,Visual,Tourism Guide
+Arts,Outdoor,Public Speaking,Programming,Empathy,Teamwork,Political Science,Physics,77.81,2,9,34,Solo,Reading,Tourism Guide
+Arts,Outdoor,Programming,Helping,Empathy,Empathy,Psychology,History,100.0,10,6,34,Solo,Hands-On,Tourism Guide
+Arts,Outdoor,Designing,Programming,Teamwork,Python,Economics,Business Studies,84.96,10,3,26,Team,Listening,Tourism Guide
+Arts,Outdoor,Programming,Writing,Problem Solving,Leadership,Chemistry,Chemistry,68.78,8,7,40,Solo,Reading,Tourism Guide
+Arts,Outdoor,Helping,Drawing,Communication,Leadership,Chemistry,Biology,63.0,2,8,30,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Drawing,Programming,Observation,Communication,Physics,Physics,54.82,7,8,34,Outdoor,Listening,Tourism Guide
+Arts,Outdoor,Reading,Writing,Communication,Problem Solving,Economics,Computer Science,70.42,6,6,28,Structured,Visual,Tourism Guide
+Arts,Research,Programming,Public Speaking,Empathy,Empathy,History,Political Science,67.85,8,7,35,Structured,Visual,Linguist
+Arts,Research,Helping,Programming,Observation,Teamwork,Political Science,Business Studies,65.05,6,2,35,Solo,Listening,Linguist
+Arts,Research,Programming,Designing,Empathy,Python,Computer Science,Political Science,89.29,4,5,36,Solo,Reading,Linguist
+Arts,Research,Drawing,Helping,Problem Solving,Teamwork,Chemistry,Political Science,87.53,6,5,25,Team,Reading,Linguist
+Arts,Research,Writing,Drawing,Empathy,Problem Solving,Political Science,History,76.03,10,7,34,Solo,Visual,Linguist
+Arts,Research,Exploring,Helping,Communication,Python,Physics,History,78.22,6,5,39,Outdoor,Hands-On,Linguist
+Arts,Research,Designing,Writing,Empathy,Leadership,Physics,Biology,77.26,7,5,41,Solo,Hands-On,Linguist
+Arts,Research,Reading,Designing,Creativity,Communication,Political Science,Computer Science,81.65,5,9,32,Structured,Reading,Linguist
+Arts,Research,Writing,Writing,Leadership,Teamwork,Computer Science,Mathematics,67.18,5,3,37,Outdoor,Hands-On,Linguist
+Arts,Research,Public Speaking,Exploring,Observation,Python,Biology,Physics,56.69,4,2,34,Structured,Visual,Linguist
+Arts,Research,Programming,Drawing,Problem Solving,Teamwork,Business Studies,Political Science,73.5,6,4,29,Solo,Visual,Linguist
+Arts,Research,Programming,Exploring,Creativity,Observation,Business Studies,Psychology,79.64,5,7,30,Outdoor,Listening,Linguist
+Arts,Research,Drawing,Programming,Creativity,Teamwork,Economics,Mathematics,76.81,9,8,32,Structured,Visual,Linguist
+Arts,Research,Public Speaking,Programming,Leadership,Observation,Mathematics,Chemistry,77.57,6,7,33,Outdoor,Reading,Linguist
+Arts,Research,Public Speaking,Exploring,Observation,Python,Computer Science,History,73.36,7,5,29,Team,Visual,Linguist
+Arts,Research,Public Speaking,Designing,Creativity,Leadership,Psychology,Political Science,61.11,3,4,35,Structured,Reading,Linguist
+Arts,Research,Public Speaking,Drawing,Creativity,Communication,Chemistry,Biology,66.07,8,7,25,Outdoor,Reading,Linguist
+Arts,Research,Helping,Public Speaking,Python,Leadership,Political Science,History,81.55,8,5,37,Solo,Listening,Linguist
+Arts,Research,Programming,Writing,Problem Solving,Problem Solving,Computer Science,Chemistry,66.44,7,4,26,Structured,Listening,Linguist
+Arts,Research,Writing,Programming,Empathy,Python,Computer Science,Business Studies,71.17,6,6,29,Structured,Hands-On,Linguist
+Arts,Research,Programming,Designing,Empathy,Observation,Chemistry,Psychology,71.0,7,6,35,Solo,Reading,Linguist
+Arts,Research,Designing,Reading,Empathy,Empathy,Biology,Economics,68.3,9,4,37,Outdoor,Visual,Linguist
+Arts,Research,Reading,Programming,Teamwork,Problem Solving,Physics,Psychology,86.82,7,6,32,Outdoor,Hands-On,Linguist
+Arts,Research,Public Speaking,Reading,Teamwork,Empathy,Economics,Physics,85.36,4,5,33,Outdoor,Reading,Linguist
+Arts,Research,Reading,Exploring,Creativity,Teamwork,Psychology,Chemistry,87.38,7,5,33,Solo,Visual,Linguist
+Arts,Research,Programming,Designing,Observation,Creativity,Biology,Physics,68.86,5,8,28,Structured,Visual,Linguist
+Arts,Research,Helping,Designing,Creativity,Creativity,Physics,Political Science,91.09,8,9,32,Solo,Hands-On,Linguist
+Arts,Research,Designing,Designing,Creativity,Problem Solving,Mathematics,Psychology,73.5,4,5,37,Solo,Listening,Linguist
+Arts,Research,Designing,Exploring,Problem Solving,Creativity,Economics,Physics,87.96,4,6,34,Structured,Hands-On,Linguist
+Arts,Research,Public Speaking,Reading,Creativity,Python,Psychology,Chemistry,61.04,8,5,34,Team,Reading,Linguist
+Arts,Research,Helping,Writing,Problem Solving,Teamwork,Psychology,History,70.48,5,6,33,Team,Reading,Linguist
+Arts,Research,Drawing,Programming,Python,Communication,Computer Science,Psychology,71.28,5,7,43,Structured,Hands-On,Linguist
+Arts,Research,Helping,Drawing,Communication,Teamwork,Computer Science,Psychology,76.4,8,4,35,Outdoor,Hands-On,Linguist
+Arts,Research,Writing,Programming,Communication,Python,Mathematics,Political Science,64.03,4,5,40,Solo,Listening,Linguist
+Arts,Research,Writing,Public Speaking,Empathy,Empathy,Chemistry,Economics,84.5,7,3,34,Team,Listening,Linguist
+Arts,Research,Exploring,Writing,Observation,Leadership,Business Studies,Economics,78.02,7,3,30,Team,Visual,Linguist
+Arts,Research,Exploring,Programming,Teamwork,Empathy,Physics,Mathematics,74.36,8,2,34,Team,Listening,Linguist
+Arts,Research,Public Speaking,Public Speaking,Teamwork,Observation,Business Studies,Mathematics,76.43,8,8,37,Structured,Reading,Linguist
+Arts,Research,Programming,Writing,Python,Creativity,Economics,Physics,67.0,3,6,40,Solo,Reading,Linguist
+Arts,Research,Helping,Exploring,Empathy,Observation,Physics,Physics,88.93,8,7,36,Team,Reading,Linguist
+Arts,Research,Helping,Drawing,Empathy,Leadership,Biology,Economics,69.44,6,10,30,Team,Reading,Linguist
+Arts,Research,Public Speaking,Programming,Communication,Leadership,Chemistry,Physics,91.15,6,9,27,Team,Listening,Linguist
+Arts,Research,Reading,Writing,Empathy,Leadership,History,Mathematics,80.86,5,4,36,Outdoor,Hands-On,Linguist
+Arts,Research,Drawing,Designing,Creativity,Creativity,Biology,Biology,85.09,5,4,34,Team,Reading,Linguist
+Arts,Research,Designing,Writing,Observation,Problem Solving,Mathematics,Physics,74.13,8,8,34,Team,Hands-On,Linguist
+Arts,Research,Drawing,Writing,Empathy,Python,Computer Science,Biology,93.56,7,6,26,Structured,Reading,Linguist
+Arts,Research,Reading,Exploring,Creativity,Communication,Political Science,Business Studies,72.37,6,8,37,Outdoor,Listening,Linguist
+Arts,Research,Exploring,Drawing,Observation,Observation,Political Science,History,63.21,7,8,42,Structured,Listening,Linguist
+Arts,Research,Helping,Designing,Python,Empathy,Mathematics,Mathematics,83.88,8,7,36,Structured,Reading,Linguist
+Arts,Research,Designing,Public Speaking,Leadership,Problem Solving,Business Studies,Psychology,87.5,4,6,31,Team,Hands-On,Linguist
+Arts,Research,Helping,Reading,Communication,Creativity,Computer Science,History,78.79,9,5,23,Outdoor,Reading,Linguist
+Arts,Research,Programming,Exploring,Observation,Problem Solving,History,History,70.88,8,8,37,Structured,Listening,Linguist
+Arts,Research,Writing,Exploring,Observation,Leadership,Business Studies,Physics,72.2,4,8,30,Team,Listening,Linguist
+Arts,Research,Public Speaking,Helping,Creativity,Observation,Chemistry,Computer Science,96.84,8,5,31,Solo,Hands-On,Linguist
+Arts,Research,Public Speaking,Reading,Creativity,Creativity,Economics,Physics,74.07,6,9,35,Team,Hands-On,Linguist
+Arts,Organize,Public Speaking,Writing,Leadership,Leadership,Computer Science,Mathematics,67.68,10,7,38,Team,Hands-On,Social Worker
+Arts,Organize,Programming,Helping,Leadership,Observation,Business Studies,Business Studies,68.92,7,7,25,Solo,Listening,Social Worker
+Arts,Organize,Drawing,Designing,Empathy,Empathy,Mathematics,History,95.15,9,6,29,Team,Listening,Social Worker
+Arts,Organize,Exploring,Writing,Creativity,Observation,Mathematics,Business Studies,78.48,7,7,35,Structured,Reading,Social Worker
+Arts,Organize,Exploring,Exploring,Python,Observation,Biology,Psychology,80.06,9,8,29,Team,Hands-On,Social Worker
+Arts,Organize,Programming,Exploring,Observation,Observation,Mathematics,Business Studies,88.63,10,10,29,Structured,Listening,Social Worker
+Arts,Organize,Helping,Writing,Python,Python,Biology,Biology,77.43,2,8,32,Outdoor,Listening,Social Worker
+Arts,Organize,Designing,Public Speaking,Problem Solving,Creativity,Political Science,Business Studies,94.23,5,3,32,Team,Listening,Social Worker
+Arts,Organize,Reading,Writing,Teamwork,Leadership,Chemistry,Biology,55.25,8,2,35,Solo,Reading,Social Worker
+Arts,Organize,Programming,Exploring,Python,Communication,Mathematics,Chemistry,54.22,6,10,36,Structured,Hands-On,Social Worker
+Arts,Organize,Public Speaking,Public Speaking,Leadership,Creativity,History,Physics,66.37,6,7,37,Outdoor,Visual,Social Worker
+Arts,Organize,Drawing,Writing,Problem Solving,Problem Solving,Biology,Chemistry,61.33,8,1,31,Team,Listening,Social Worker
+Arts,Organize,Exploring,Reading,Problem Solving,Empathy,Biology,Mathematics,70.12,8,7,27,Outdoor,Listening,Social Worker
+Arts,Organize,Exploring,Drawing,Leadership,Empathy,Political Science,History,65.15,7,6,32,Outdoor,Reading,Social Worker
+Arts,Organize,Programming,Drawing,Teamwork,Creativity,Business Studies,Psychology,70.19,8,5,34,Team,Hands-On,Social Worker
+Arts,Organize,Exploring,Exploring,Teamwork,Python,Chemistry,Computer Science,96.7,4,3,38,Structured,Hands-On,Social Worker
+Arts,Organize,Helping,Designing,Communication,Problem Solving,Mathematics,Biology,68.21,6,5,33,Structured,Listening,Social Worker
+Arts,Organize,Designing,Drawing,Creativity,Problem Solving,Physics,Mathematics,90.99,8,8,27,Team,Hands-On,Social Worker
+Arts,Organize,Helping,Reading,Empathy,Teamwork,Business Studies,Political Science,63.49,1,5,39,Solo,Hands-On,Social Worker
+Arts,Organize,Reading,Reading,Observation,Problem Solving,History,Biology,80.17,6,6,31,Outdoor,Reading,Social Worker
+Arts,Organize,Programming,Exploring,Python,Creativity,History,Business Studies,77.05,8,3,36,Outdoor,Listening,Social Worker
+Arts,Organize,Public Speaking,Designing,Python,Python,Computer Science,Chemistry,84.32,6,8,49,Team,Hands-On,Social Worker
+Arts,Organize,Exploring,Exploring,Teamwork,Creativity,Chemistry,Political Science,73.96,7,5,35,Team,Listening,Social Worker
+Arts,Organize,Drawing,Exploring,Leadership,Communication,Biology,Physics,79.6,7,4,36,Solo,Reading,Social Worker
+Arts,Organize,Helping,Reading,Problem Solving,Communication,Chemistry,Physics,89.62,7,8,33,Outdoor,Reading,Social Worker
+Arts,Organize,Exploring,Writing,Communication,Empathy,Physics,Political Science,82.5,7,5,36,Team,Listening,Social Worker
+Arts,Organize,Programming,Reading,Problem Solving,Leadership,History,Physics,65.08,5,7,36,Solo,Visual,Social Worker
+Arts,Organize,Designing,Public Speaking,Empathy,Observation,Mathematics,Mathematics,63.11,9,8,31,Solo,Visual,Social Worker
+Arts,Organize,Designing,Programming,Python,Observation,Mathematics,Chemistry,59.62,6,6,35,Team,Visual,Social Worker
+Arts,Organize,Drawing,Drawing,Python,Problem Solving,Political Science,Chemistry,71.37,2,6,33,Outdoor,Hands-On,Social Worker
+Arts,Organize,Public Speaking,Public Speaking,Problem Solving,Problem Solving,Chemistry,Mathematics,81.34,5,10,25,Team,Visual,Social Worker
+Arts,Organize,Writing,Writing,Communication,Python,Business Studies,Economics,88.11,6,8,35,Solo,Listening,Social Worker
+Arts,Organize,Public Speaking,Exploring,Empathy,Creativity,Computer Science,Psychology,86.4,6,4,42,Outdoor,Visual,Social Worker
+Arts,Organize,Reading,Public Speaking,Problem Solving,Leadership,Psychology,History,73.87,7,9,29,Solo,Reading,Social Worker
+Arts,Organize,Helping,Reading,Observation,Problem Solving,Biology,Economics,80.95,5,6,35,Team,Hands-On,Social Worker
+Arts,Organize,Exploring,Reading,Observation,Python,Psychology,Psychology,60.0,5,9,39,Structured,Listening,Social Worker
+Arts,Organize,Public Speaking,Programming,Empathy,Python,Psychology,Chemistry,74.37,7,6,41,Outdoor,Reading,Social Worker
+Arts,Organize,Designing,Public Speaking,Creativity,Python,Biology,Economics,73.0,7,9,31,Structured,Hands-On,Social Worker
+Arts,Organize,Public Speaking,Drawing,Problem Solving,Empathy,Physics,Mathematics,90.59,3,10,33,Structured,Hands-On,Social Worker
+Arts,Organize,Drawing,Helping,Observation,Python,Political Science,Business Studies,72.57,3,6,29,Outdoor,Visual,Social Worker
+Arts,Organize,Public Speaking,Writing,Observation,Empathy,Mathematics,Political Science,68.92,6,8,36,Solo,Reading,Social Worker
+Arts,Organize,Public Speaking,Designing,Observation,Communication,History,Physics,78.08,4,5,43,Solo,Listening,Social Worker
+Arts,Organize,Reading,Public Speaking,Python,Communication,Mathematics,Biology,67.65,10,6,35,Solo,Reading,Social Worker
+Arts,Organize,Public Speaking,Public Speaking,Creativity,Problem Solving,History,Computer Science,85.7,9,6,33,Team,Reading,Social Worker
+Arts,Organize,Public Speaking,Designing,Communication,Empathy,Computer Science,Computer Science,74.44,7,8,35,Structured,Reading,Social Worker
+Arts,Organize,Helping,Exploring,Creativity,Observation,Business Studies,Business Studies,81.19,10,7,36,Team,Listening,Social Worker
+Arts,Organize,Exploring,Designing,Problem Solving,Communication,History,Physics,59.81,1,7,34,Structured,Listening,Social Worker
+Arts,Organize,Reading,Helping,Communication,Communication,Computer Science,Business Studies,69.85,7,6,40,Structured,Hands-On,Social Worker
+Arts,Organize,Exploring,Helping,Problem Solving,Teamwork,Chemistry,Economics,75.86,5,8,33,Team,Listening,Social Worker
+Arts,Organize,Public Speaking,Drawing,Empathy,Python,Physics,Political Science,80.27,6,5,35,Outdoor,Listening,Social Worker
+Arts,Organize,Designing,Designing,Problem Solving,Observation,Business Studies,History,75.13,7,6,25,Outdoor,Visual,Social Worker
+Arts,Organize,Designing,Programming,Creativity,Problem Solving,Psychology,Biology,70.67,8,6,33,Team,Listening,Social Worker
+Arts,Organize,Helping,Writing,Teamwork,Observation,Physics,Business Studies,84.86,5,3,34,Structured,Reading,Social Worker
+Arts,Organize,Public Speaking,Exploring,Python,Observation,Physics,Biology,70.16,5,6,37,Outdoor,Listening,Social Worker
+Arts,Organize,Drawing,Helping,Empathy,Communication,Physics,Chemistry,74.91,7,10,33,Solo,Listening,Social Worker
