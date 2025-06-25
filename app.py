@@ -15,7 +15,7 @@ categorical_cols = [
 encoders = {col: joblib.load(f"{col.lower()}_encoder.pkl") for col in categorical_cols}
 
 # Streamlit UI
-st.title("Class 12 Career Recommendation System")
+st.title("Career Recommendation System")
 
 # Collect input for categorical fields
 raw_input = {}
